@@ -1,0 +1,3171 @@
+TY  - JOUR
+TI  - Efficient Hole Transfer from a Twisted Perylenediimide Acceptor to a Conjugated Polymer in Organic Bulk-Heterojunction Solar Cells
+AU  - Hyojung Cha
+PY  - 2023
+DO  - 10.3390/ma16020737
+UR  - https://doi.org/10.3390/ma16020737
+AB  - Non-fullerene acceptors have recently attracted tremendous interest due to their potential as alternatives to fullerene derivatives in bulk-heterojunction solar cells. Nevertheless, physical understanding of charge carrier generation and transfer mechanism that occurred at the interface between the non-fullerene molecule and donor polymer is still behind their enhanced photovoltaic performance. Here we report examples of a non-planar perylene dimer (TP) as an electron acceptor and achieve a power conversion efficiency of 6.29% in a fullerene-free solar cell. Photoluminescence (PL) measurements show high quenching efficiency driven by the excitons of both conjugated polymer and TP molecule, respectively, indicating efficient electron and hole transfer, which can support a highly intermixed phase of blends measured by atomic force microscopy (AFM) and grazing incident wide-angle X-ray diffraction (GIWAXS). Femtosecond transient absorption spectroscopy (fs-TAS) reveals that the fast exciton dissociation process from TP molecule to donor polymer contributes to additionally increasing current density, leading to stronger incident photon to current efficiency in the visible region.
+ER  - 
+
+TY  - JOUR
+TI  - Organic photovoltaics: 30 years of the bulk heterojunction
+AU  - Rachel C. Kilbride
+AU  - Emma L. K. Spooner
+AU  - Andrew J. Parnell
+PY  - 2026
+DO  - 10.1002/pi.70097
+UR  - https://doi.org/10.1002/pi.70097
+AB  - Abstract Over the last 30 years, the bulk heterojunction (BHJ) has been the central architecture in organic photovoltaics (OPVs), enabling high interfacial area for efficient exciton dissociation and driving major improvements in power conversion efficiencies. This mini‐review traces the development of the BHJ and the parallel evolution of OPV materials, from the first fullerene acceptors to today's highly engineered non‐fullerene acceptors. Materials advances have significantly improved control over molecular packing, energetics and absorption, but have also highlighted the challenges of stabilising the inherently multicomponent BHJ morphology. We summarise current understanding of how donor–acceptor interactions, miscibility, crystallisation and film‐formation kinetics shape morphology across length scales, and how these features govern charge generation, transport, recombination and operational degradation. The review also explores emerging alternatives to the conventional BHJ, including single‐component and layer‐by‐layer systems, which challenge conventional assumptions about the need for a bicontinuous donor:acceptor network. Together, these systems reveal several ongoing challenges that need to be addressed to achieve OPVs that are not only efficient but also stable, scalable and mechanically robust. © 2026 The Author(s). Polymer International published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.
+ER  - 
+
+TY  - JOUR
+TI  - Enhanced Photovoltaic Performance of Ternary Small Molecule/Polymer Bulk Heterojunction Solar Cells
+AU  - Soo Ah Nam
+AU  - Jinwoo Lee
+AU  - Joonwon Lim
+PY  - 2026
+DO  - 10.3390/mi17010097
+UR  - https://doi.org/10.3390/mi17010097
+AB  - We report a notable enhancement in the performance of small-molecule-based organic photovoltaics (OPVs) through the use of a ternary blend comprising a small-molecule donor (DTS(FBTTh2)2), a polymer donor (PBDTTT-EFT), and a fullerene acceptor (PC71BM). By optimizing the composition of this ternary active layer, we achieved a significant increase in power conversion efficiency from 7.99% to 9.08%. This improvement is attributed to the broader light absorption spectrum and enhanced charge transport pathways provided by the polymeric donor. PBDTTT-EFT optimizes the nanomorphology and ordering of the bulk heterojunction films and forms a cascade energy level that enhances charge carrier mobility. Our results demonstrate that semiconducting polymer donors can effectively control light absorption, charge transport, and exciton dissociation by optimizing morphology and crystallinity. This approach offers new possibilities for advancing the performance of various optoelectronic devices through strategic use of different semiconducting polymer donors.
+ER  - 
+
+TY  - JOUR
+TI  - Morphology Control of Monomer–Polymer Hybrid Electron Acceptor for Bulk-Heterojunction Solar Cell Based on P3HT and Ti-Alkoxide with Ladder Polymer
+AU  - Yasuyuki Ueda
+AU  - Yuki Kurokawa
+AU  - Kei Nishii
+AU  - Hideyuki Kanematsu
+AU  - Tadashi Fukumoto
+AU  - Takehito Kato
+PY  - 2022
+DO  - 10.3390/ma15031195
+UR  - https://doi.org/10.3390/ma15031195
+AB  - We report the morphology control of a nano-phase-separated structure in the photoactive layer (power generation layer) of organic–inorganic hybrid thin-film solar cells to develop highly functional electronic devices for societal applications. Organic and inorganic–organic hybrid bulk heterojunction solar cells offer several advantages, including low manufacturing costs, light weight, mechanical flexibility, and a potential to be recycled because they can be fabricated by coating them on substrates, such as films. In this study, by incorporating the carrier manager ladder polymer BBL as the third component in a conventional two-component power generation layer consisting of P3HT—the conventional polythiophene derivative and titanium alkoxide—we demonstrate that the phase-separated structure of bulk heterojunction solar cells can be controlled. Accordingly, we developed a discontinuous phase-separated structure suitable for charge transport, obtaining an energy conversion efficiency higher than that of the conventional two-component power generation layer. Titanium alkoxide is an electron acceptor and absorbs light with a wavelength lower than 500 nm. It is highly sensitive to LED light sources, including those used in homes and offices. A conversion efficiency of 4.02% under a 1000 lx LED light source was achieved. Hence, high-performance organic–inorganic hybrid bulk heterojunction solar cells with this three-component system can be used in indoor photovoltaic systems.
+ER  - 
+
+TY  - JOUR
+TI  - Polymer Solar Cells with 18.74% Efficiency: From Bulk Heterojunction to Interdigitated Bulk Heterojunction
+AU  - Xiaopeng Xu
+AU  - Liyang Yu
+AU  - Huifeng Meng
+AU  - Liming Dai
+AU  - He Yan
+AU  - Ruipeng Li
+AU  - Qiang Peng
+PY  - 2022
+DO  - 10.1002/adfm.202108797
+UR  - https://doi.org/10.1002/adfm.202108797
+AB  - Abstract The most popular approach to fabricating organic solar cells (OSCs) is solution processing a mixture of donor (D) and acceptor (A) materials into an active layer with a bulk heterojunction (BHJ) nanostructure. Herein, it is demonstrated that the interdigitated heterojunction (IHJ) is a more suitable nanostructure of the active layer for high‐performance OSCs whereas it is a long standing challenge to realize well‐defined IHJ structures. In this study, a facile and versatile sequential solution processing method is developed to produce an IHJ nanostructure with power conversion efficiency reaching 18.74% (18.10% for BHJ the counterpart) by fabricating a donor film with nanopores created by a wax additive, sequentially casting the acceptor on top of infiltrating the nanopores. Compared to the BHJ, the IHJ structure with an interpillar distance within the exciton diffusion length can afford a large bulk D/A interface for efficient exciton dissociation with a minimized charge recombination while free electrons and holes can transport to the respective electrodes through more straightforward pathways, thus enhance performance. Furthermore, the D or A phase in the IHJ device contacts with only one electrode, which can prevent shunting between the anode and cathode and facilitate the industrial mass production of OSCs.
+ER  - 
+
+TY  - JOUR
+TI  - Bridging the thermodynamics and kinetics of temperature-induced morphology evolution in polymer/fullerene organic solar cell bulk heterojunction
+AU  - Artem Levitsky
+AU  - Sebastian Alexander Schneider
+AU  - Eugen Rabkin
+AU  - Michael F. Toney
+AU  - Gitti L. Frey
+PY  - 2021
+DO  - 10.1039/d0mh01805h
+UR  - https://doi.org/10.1039/d0mh01805h
+AB  - Organic solar cell morphology evolution through distinct and consecutive spinodal decomposition and nucleation and growth mechanisms.
+ER  - 
+
+TY  - JOUR
+TI  - Elasto-morphology of P3HT:PCBM bulk heterojunction organic solar cells
+AU  - Joydeep Munshi
+AU  - TeYu Chien
+AU  - Wei Chen
+AU  - Ganesh Balasubramanian
+PY  - 2020
+DO  - 10.1039/d0sm00849d
+UR  - https://doi.org/10.1039/d0sm00849d
+AB  - The effect of solution processing conditions on the elasto-morphology of a bulk heterojunction layer reveals a trade-off between thermo-mechanical stability and performance in organic solar cells.
+ER  - 
+
+TY  - JOUR
+TI  - Polymer/non-fullerene acceptor bulk heterojunction nanoparticles for efficient photocatalytic hydrogen production from water
+AU  - Yujie Yang
+AU  - Donghui Li
+AU  - Pang Wang
+AU  - Xue Zhang
+AU  - Huijun Zhang
+AU  - Baocai Du
+AU  - Chuanhang Guo
+AU  - Tao Wang
+AU  - Dan Liu
+PY  - 2022
+DO  - 10.1016/j.polymer.2022.124667
+UR  - https://doi.org/10.1016/j.polymer.2022.124667
+ER  - 
+
+TY  - JOUR
+TI  - Multi-scale mechanical properties of bulk-heterojunction films in polymer solar cells
+AU  - Tian Zhong
+AU  - Feng Guo
+AU  - Shiyun Lei
+AU  - Biao Xiao
+AU  - Qingduan Li
+AU  - Tao Jia
+AU  - Xunchang Wang
+AU  - Renqiang Yang
+PY  - 2023
+DO  - 10.1038/s41528-023-00236-5
+UR  - https://doi.org/10.1038/s41528-023-00236-5
+AB  - Abstract The mechanical properties of bulk-heterojunction (BHJ) films play critical roles in the operational stability of flexible polymer solar cells (PSCs). In this study, the multi-scale mechanical properties of the BHJ films containing three representative electron acceptors are systematically evaluated. Interestingly, the tensile moduli of the films based on PC 71 BM, Y6, and PRi-C39 decrease sequentially, and their fracture strain and toughness show an increasing trend. Moreover, the nanoindentation moduli of the films based on these acceptors vary in accordance with the results of tensile characterizations. Creep analyses illustrate that the occurrence of creep deformation in the PC 71 BM, Y6, and PRi-C39-based films decrease sequentially. Contact angle tests demonstrate that the donor-acceptor interactions greatly affect the mechanical properties of these films. All results above demonstrate the effects of acceptor type on the multi-scale mechanical properties of the BHJ films, which are important for the development of reliable flexible PSCs.
+ER  - 
+
+TY  - JOUR
+TI  - A paradigm study of polymer donor diluted bulk heterojunction films for application in semitransparent organic photovoltaics
+AU  - Zhenyu Chen
+AU  - Wei Ma
+AU  - Han Yan
+PY  - 2023
+DO  - 10.1039/d2ta09472j
+UR  - https://doi.org/10.1039/d2ta09472j
+AB  - More J-type polymer aggregations and the prioritized polymer reduction from its pure domain help to achieve high LUE in ST-OSCs during the polymer donor diluting process.
+ER  - 
+
+TY  - JOUR
+TI  - Fast-Growth Polymer: Fullerene Bulk-Heterojunction Thin Films for Efficient Organic Photovoltaics
+AU  - Daewon Chung
+AU  - Chandran Balamurugan
+AU  - Byoungwook Park
+AU  - Hyeonryul Lee
+AU  - Ilhyeon Cho
+AU  - Chaerin Yoon
+AU  - Soyeon Park
+AU  - Yong-Ryun Jo
+AU  - Joonhyeon Jeon
+AU  - Soonil Hong
+AU  - Sooncheol Kwon
+PY  - 2024
+DO  - 10.3390/nano14060502
+UR  - https://doi.org/10.3390/nano14060502
+AB  - The bulk-heterojunction (BHJ) system that uses a π-conjugated polymer as an electron donor, and a fullerene derivative as an electron acceptor, is widely used in organic solar cells (OSCs) to facilitate efficient charge separation and extraction. However, the conventional BHJ system still suffers from unwanted phase segregation caused by the existence of significant differences in surface energy between the two BHJ components and the charge extraction layer during film formation. In the present work, we demonstrate a sophisticated control of fast film-growth kinetics that can be used to achieve a uniform distribution of donor and acceptor materials in the BHJ layer of OSCs without undesirable phase separation. Our approach involves depositing the BHJ solution onto a spinning substrate, thus inducing rapid evaporation of the solvent during BHJ film formation. The fast-growth process prevents the fullerene derivative from migrating toward the charge extraction layer, thereby enabling a homogeneous distribution of the fullerene derivative within the BHJ film. The OSCs based on the fast-growth BHJ thin film are found to exhibit substantial increases in JSC, fill factor, and a PCE up to 11.27 mA/cm2, 66%, and 4.68%, respectively; this last value represents a remarkable 17% increase in PCE compared to that of conventional OSCs.
+ER  - 
+
+TY  - JOUR
+TI  - The Effect of Thermal Annealing on Optical Properties and Surface Morphology of a Polymer: Fullerene- and Non-Fullerene-Blend Films Used in Organic Solar Cells
+AU  - Bożena Jarząbek
+AU  - Muhammad Raheel Khan
+AU  - Barbara Hajduk
+AU  - Andrzej Marcinkowski
+AU  - Paweł Chaber
+AU  - Adrian Cernescu
+AU  - Yasin C. Durmaz
+PY  - 2026
+DO  - 10.3390/polym18020280
+UR  - https://doi.org/10.3390/polym18020280
+AB  - The optical properties, electronic structure and morphology of thin films of the polymer donor PTB7-Th blended with either the fullerene acceptor PC70BM or the non-fullerene acceptor ZY-4Cl were systematically investigated to evaluate their annealing-induced evolution. Thin films were characterized using UV–Vis–NIR absorption spectroscopy, spectroscopic ellipsometry, ATR-FTIR spectroscopy, atomic force microscopy (AFM), and nano-IR analysis. In situ stepwise thermal annealing revealed distinct changes in absorption edge parameters, indicating thermally induced modifications in the electronic structure of the blend films. Ellipsometric analysis showed that elevated temperatures significantly affect the refractive index and extinction coefficient spectra. AFM measurements demonstrated markedly different surface morphology evolution for the two blend systems, with pronounced needle-shaped crystallites formation observed in PTB7-Th:ZY-4Cl films after annealing at 100 °C. Nano-IR characterization identified these crystallites as predominantly PTB7-Th, indicating phase separation driven by thermal treatment. The combined optical and structural results reveal distinct annealing-induced changes in the blend. Finally, BHJ solar cells, based on PTB7-Th:PC70BM and PTB7-Th:ZY-4Cl active layers, were fabricated, and their photovoltaic response was demonstrated.
+ER  - 
+
+TY  - JOUR
+TI  - Efficient thick film all-polymer solar cells enabled by incorporating an ester-substituted non-fullerene-based polymer acceptor
+AU  - Panfeng Gao
+AU  - Han Shen
+AU  - Xiaoman Gui
+AU  - Jianling Ni
+AU  - Shisong Sun
+AU  - Meixiu Wan
+AU  - Lijun Huo
+PY  - 2025
+DO  - 10.1039/d5py00302d
+UR  - https://doi.org/10.1039/d5py00302d
+AB  - An ester-modified polymer acceptor enhance thickness tolerance in all-polymer solar cells, achieving 14% efficiency at 350 nm and maintaining 80% (400 nm), the highest reported for thick all-PSCs, enabling scalable roll-to-roll production.
+ER  - 
+
+TY  - JOUR
+TI  - The Pseudo-Bilayer Bulk Heterojunction Active Layer of Polymer Solar Cells in Green Solvent with 18.48% Efficiency
+AU  - Jingyue Cao
+AU  - Zheng Xu
+PY  - 2025
+DO  - 10.3390/polym17030284
+UR  - https://doi.org/10.3390/polym17030284
+AB  - Planar heterojunction (PHJ) is employed to obtain proper vertical phase separation for highly efficient polymer solar cells (PSCs). However, it heavily relies on the choice of orthogonal solvent in the production process. Here, we fabricated a pseudo-bilayer bulk heterojunction (PBHJ) PSC with cross-distribution in the vertical direction by preparing two layers of PM6 and BTP-eC9 blends in an o-XY solution with different dilution ratios to study the morphological evolution of PBHJ film. We found that the PBHJ film exhibits more uniform and suitable continuous interpenetrating network morphology and proper phase separation in the vertical direction for the formation of p-i-n structure. This provides an effective channel for exciton dissociation and charge transport, which is confirmed by both exciton generation simulations and charge dynamics measurements. The PBHJ devices can effectively inhibit trap recombination and accelerate charge separation and transfer. Based on good active layer morphology and balanced charge mobility, all-green solvent-processed PSCs with champion power conversion efficiencies (PCEs) of 18.48% and 16.83% are obtained in PM6:BTP-eC9 and PTQ10:BTP-eC9 systems, respectively. This work reveals the potential mechanism of morphological evolution induced by the PBHJ structure and provides an alternative approach for developing solution processing PSCs.
+ER  - 
+
+TY  - JOUR
+TI  - Preparation of PVDF/PVP blend polymer nanofiber films and application on screen-printed flexible electrodes
+AU  - Zhilei Li
+AU  - Jianping Zhou
+AU  - Yan Xu
+AU  - Changhua Chen
+AU  - Tongtong Ran
+AU  - Shuaishuai Wang
+PY  - 2024
+DO  - 10.1016/j.eurpolymj.2024.112740
+UR  - https://doi.org/10.1016/j.eurpolymj.2024.112740
+ER  - 
+
+TY  - GEN
+TI  - The complex legacy of early animated health films in Eastern Europe
+AU  - Victoria Shmidt
+AU  - Karl Kaser
+PY  - 2023
+DO  - 10.4324/9781003272267-8
+UR  - https://doi.org/10.4324/9781003272267-8
+ER  - 
+
+TY  - JOUR
+TI  - Largely improved bulk-heterojunction morphology in organic solar cells based on a conjugated terpolymer donor via a ternary strategy
+AU  - Lechi Qing
+AU  - Anxing Zhong
+AU  - Wenxing Chen
+AU  - Yong Cao
+AU  - Junwu Chen
+PY  - 2020
+DO  - 10.1016/j.polymer.2019.122050
+UR  - https://doi.org/10.1016/j.polymer.2019.122050
+ER  - 
+
+TY  - JOUR
+TI  - Machine learned metaheuristic optimization of the bulk heterojunction morphology in P3HT:PCBM thin films
+AU  - Joydeep Munshi
+AU  - Wei Chen
+AU  - TeYu Chien
+AU  - Ganesh Balasubramanian
+PY  - 2021
+DO  - 10.1016/j.commatsci.2020.110119
+UR  - https://doi.org/10.1016/j.commatsci.2020.110119
+ER  - 
+
+TY  - JOUR
+TI  - Relaxation processes in a polymer composite for bulk heterojunction: A dielectric spectroscopy study
+AU  - Mihai Asandulesa
+AU  - Sergei Kostromin
+AU  - Aleksandr Podshivalov
+AU  - Alexey Tameev
+AU  - Sergei Bronnikov
+PY  - 2020
+DO  - 10.1016/j.polymer.2020.122785
+UR  - https://doi.org/10.1016/j.polymer.2020.122785
+ER  - 
+
+TY  - JOUR
+TI  - Control over the aggregated structure of donor–acceptor conjugated polymer films for high‐mobility organic field‐effect transistors
+AU  - Xinxiu Cao
+AU  - Yanchun Han
+PY  - 2024
+DO  - 10.1002/agt2.501
+UR  - https://doi.org/10.1002/agt2.501
+AB  - Abstract Donor–acceptor (D‐A) conjugated polymers have demonstrated great potential in organic field‐effect transistors application, and their aggregated structure is a crucial factor for high charge mobility. However, the aggregated structure of D‐A conjugated polymer films is complex and the structure–property relationship is difficult to understand. This review provides an overview of recent progress in controlling the aggregated structure of D‐A conjugated polymer films for higher mobility, including the mechanisms, methods, and properties. We first discuss the multilevel microstructures of D‐A conjugated polymer films, and then summarize the current understanding of the relationship between film microstructures and charge transport properties. Subsequently, we review the theory of D‐A conjugated polymer crystallization. After that, we summarize the common methods to control the aggregated structure of semi‐crystalline and near‐amorphous D‐A conjugated polymer films, such as crystallites and aggregates, tie chains, film alignment, and attempt to understand them from the basic theory of polymer crystallization. Finally, we provide the current challenges in controlling the aggregated structure of D‐A conjugated polymer films and in understanding the structure–property relationship.
+ER  - 
+
+TY  - JOUR
+TI  - Morphology prediction for polymer blend thin films using machine learning
+AU  - Bishnu R.
+AU  - Rabibrata Mukherjee
+AU  - Nandini Bhandaru
+AU  - Arnab Dutta
+PY  - 2025
+DO  - 10.1039/d5sm00335k
+UR  - https://doi.org/10.1039/d5sm00335k
+AB  - Phase-separated morphology plays a pivotal role in determining the potential applications of blend thin films. Machine learning-based classification framework is developed to predict the morphology of PS/PMMA blend thin films.
+ER  - 
+
+TY  - JOUR
+TI  - Effects of Plasticizer and Microphase‐Separated Morphology on Bending Electromechanical Properties of Thermoplastic Polyurethane Elastomer/Plasticizer Blend Films
+AU  - Han Lin
+AU  - Youyuan Cui
+AU  - Ying Dan Liu
+AU  - Yongri Liang
+PY  - 2025
+DO  - 10.1002/app.57206
+UR  - https://doi.org/10.1002/app.57206
+AB  - ABSTRACT Electrobending soft actuators play a crucial role in soft robotics, medical devices, and wearable technology, enabling a variety of motions such as bending, gripping, crawling, and shaking. However, improving the electrobending properties of electroactive polymers still faces significant challenges for practical applications. This study investigates the impact of plasticizers and microphase‐separated morphologies on the bending electromechanical properties of thermoplastic polyurethane elastomers (TPU) by blending them with small quantities of different plasticizers (5 phr). The findings reveal that the microphase separation of the TPU film is significantly affected by the addition of various plasticizers, leading to the development of a morphology characterized by interconnected soft domain (SD)‐rich regions or isolated SD‐rich regions. TPU exhibiting an interconnected SD‐rich morphology demonstrated superior electrobending displacement and actuation force compared to those with a locally isolated SD‐rich structure. The TPU blended with 5 phr of ATBC achieved a bending displacement of 4.87 mm at 15 V/μm, representing a remarkable 490% increase over the TPU alone. Our results indicate that the improvement of bending electromechanical properties of TPU films can be achieved not only by adjusting their morphology but also by the incorporation of certain plasticizers.
+ER  - 
+
+TY  - JOUR
+TI  - Stress Engineering of Active Layer Films Coated on Water Surface for Efficient Large‐Area Organic Photovoltaic Modules
+AU  - Qi Luo
+AU  - Zedong Xiong
+AU  - Kai Feng
+AU  - Ruiyu Tian
+AU  - Xinlu Liu
+AU  - Xianming Zhou
+AU  - Ruizhi Wei
+AU  - Zhen Liu
+AU  - Zixian Zhang
+AU  - Huimin Liu
+AU  - Jiangbin Le
+AU  - Jianjun Zhang
+AU  - Xin Lu
+AU  - Yinhua Zhou
+PY  - 2026
+DO  - 10.1002/smll.73554
+UR  - https://doi.org/10.1002/smll.73554
+AB  - ABSTRACT Water transfer printing is a promising method for fabricating large‐area organic photovoltaic (OPV) devices. However, the films formed on the water surface (liquid) differ from those formed on glass or plastic substrates (solid). Specifically, the films on the water surface exhibit higher sensitivity to interior stress due to the lack of constrains from bottom substrates. In this work, we report that interior stress drives the formation of wrinkling in the films due to generated capillary force during drying process. This wrinkling makes the subsequent film transfer process challenging, and the resulting devices often exhibit poor performance. To address this issue, drying‐induced stress was mitigated from two aspects: reducing film thickness, and adding liquid additive (1,8‐diiodooctane) to delay its drying. Therefore, uniform, flat, and smooth films on the water surface were obtained on water surface and then transferred onto target substrates for fabricating OPV device. OPV devices based on the water transfer printed film achieved a power conversion efficiency (PCE) of 17.23%. Large‐area flexible OPV modules (70 cm 2 ) fabricated via this method were successfully fabricated and delivered a PCE of 13.84%.
+ER  - 
+
+TY  - JOUR
+TI  - Enhancing photovoltaic performance of organic solar cells by embedding plasmonic Ag nanocuboid array in the active layer
+AU  - Jinxin Zhou
+AU  - Fuhao Gao
+AU  - Haitao Xu
+AU  - Yongbing Long
+PY  - 2024
+DO  - 10.1063/5.0227571
+UR  - https://doi.org/10.1063/5.0227571
+AB  - This paper presents a method to enhance the light absorption and power conversion efficiency of organic solar cells (OSCs) by embedding a plasmonic Ag nanocuboid array into the active layer. Numerical simulations based on the finite-difference time-domain method are conducted to compare the enhancement of short circuit current density (Jsc) caused by the Ag nanocuboid array with other types of plasmonic nanostructures such as nanocubes, nanospheres, nanorods, and nanocylinders. It is demonstrated that the nanocuboid array can lead to an enhancement of 25.5% in Jsc, much higher than that of other nanostructure arrays. Analyses of the photoelectric field and light absorption enhancement show that the enhancement in Jsc primarily results from the combined effects of localized surface plasmon resonance (LSPR) and optical interference within the devices. It is also revealed that the optical interference can improve or weaken the absorption-enhancing ability of the LSPR mode, which depends on the spectral position of the LSPR mode and the spatial position of the Ag nanocuboids in the optical electric field. Finally, we investigate the effects of light polarization and nanostructure size on Jsc enhancement of the OSC devices. The findings in the paper provide theoretical support for designing OSCs with thinner active layers and superior absorption performance.
+ER  - 
+
+TY  - JOUR
+TI  - Multilayer biopolymer‐based flexible packaging films via layer‐by‐layer assembly: a comprehensive review
+AU  - Aditya Gupta
+AU  - Kirtiraj K Gaikwad
+PY  - 2026
+DO  - 10.1002/pi.70114
+UR  - https://doi.org/10.1002/pi.70114
+AB  - Abstract In the current market, petroleum based plastics or synthetic polymers covers a wide area over flexible packaging films; their drawbacks, such as non‐biodegradability, landfills, greenhouse gas emission, etc., are influencing researchers to shift towards multilayered biodegradable polymers. The layer‐by‐layer technique represents an alternate deposition of polymeric materials. The attraction between the layers is due to electrostatic attraction, van der Waals attraction, hydrogen bonding, and Schiff base linkage. Single‐layer film has several advantages such as cost‐effectiveness, but limited barrier properties (depending upon the material used), manufacturing simplicity, limited functionality, and other properties such as mechanical and optical. Whereas in multilayer film, the combination of layers' properties is enhanced, such as mechanical, active functionalities (e.g. antimicrobial, antioxidant, controlled release), oxygen and moisture barrier, and twist retention. Nowadays, researchers are finding alternative for replacement of petroleum‐based plastics, also known as synthetic polymers, with degradable biopolymers like chitosan, polysaccharides, alginate, soy protein, whey protein, poly(lactic acid), polyhydroxyalkanoates, and inorganic nanocomposites (clay, metal oxides) that have equivalent mechanical qualities. This review also discusses various characterization techniques like scanning electron microscopy, transmission electron microscopy, atomic force microscopy, Fourier transform infrared spectroscopy, X‐ray photoelectron spectroscopy, differential scanning calorimetry, and thermogravimetric analysis of multilayer flexible films. © 2026 Society of Chemical Industry.
+ER  - 
+
+TY  - JOUR
+TI  - DNA: Novel Crystallization Regulator for Solid Polymer Electrolytes in High-Performance Lithium-Ion Batteries
+AU  - Xiong Cheng
+AU  - Joonho Bae
+PY  - 2024
+DO  - 10.3390/nano14201670
+UR  - https://doi.org/10.3390/nano14201670
+AB  - In this work, we designed a novel polyvinylidene fluoride (PVDF)@DNA solid polymer electrolyte, wherein DNA, as a plasticizer-like additive, reduced the crystallinity of the solid polymer electrolyte and improved its ionic conductivity. At the same time, due to its Lewis acid effect, DNA promotes the dissociation of lithium salts when interacting with lithium salt anions and can also fix the anions, creating more free lithium ions in the electrolyte and thus improving its ionic conductivity. However, owing to hydrogen bonding between DNA and PVDF, excess DNA occupies the lone pairs of electrons of the fluorine atoms on the PVDF molecular chains, affecting the conduction of lithium ions and the conductivity of the solid electrolyte. Hence, in this study, we investigated the effects of adding different DNA amounts to solid polymer electrolytes. The results show that 1% DNA addition resulted in the best improvement in the electrochemical performance of the electrolyte, demonstrating a high ionic conductivity of 3.74 × 10−5 S/cm (25 °C). The initial capacity reached 120 mAh/g; moreover, after 500 cycles, the all-solid-state batteries exhibited a capacity retention of approximately 71%, showing an outstanding cycling performance.
+ER  - 
+
+TY  - JOUR
+TI  - Effects of Aggregation Degree and Cross‐Linking Density on the Viscoelasticity of CNTs / CB ‐Filled Natural Rubber Composites: A Coarse‐Grained Molecular Dynamics Simulation
+AU  - Jianzheng Cui
+AU  - Dahai Wei
+AU  - Fanlin Zeng
+PY  - 2026
+DO  - 10.1002/pc.70400
+UR  - https://doi.org/10.1002/pc.70400
+AB  - ABSTRACT Nanoparticle (NP)‐filled natural rubber (NR) has garnered significant research interest because of its superior viscoelastic behavior. In this study, the effects of aggregation degree and cross‐linking density on the viscoelasticity of carbon nanotubes (CNTs)/carbon black (CB)‐filled NR composites are studied using coarse‐grained molecular dynamics simulations. Dynamic shear simulation is conducted to calculate the storage modulus, loss modulus, and loss factor of the filled rubber. The simulation results demonstrate that CNTs dominate the dual‐phase NP network composed of CNTs and CB. Meanwhile, the improvement of the aggregation degree of CNTs helps to increase the interaction between components and promote the formation of bound rubber. However, excessive dispersion of CNTs can reduce the interaction between CNTs, weaken the rigidity of the entire NP network, and reduce the formation of bound rubber, resulting in a decrease in storage modulus and a weakening of the Payne effect. In addition, the cross‐linking structures of CNTs and NR also help to improve the storage modulus of the filled rubber and weaken the Payne effect of the filled rubber, which can be attributed to the enhanced interfacial rigidity and stability. The microstructure evolution of the composite network is analyzed in detail to reveal the synergistic mechanism of dual‐phase NPs on the viscoelasticity of the filled rubber.
+ER  - 
+
+TY  - JOUR
+TI  - Enhancing Polymer Blend Compatibility with Linear and Complex Star Copolymer Architectures: A Monte Carlo Simulation Study with the Bond Fluctuation Model
+AU  - Juan J. Freire
+AU  - Costas Vlahos
+PY  - 2024
+DO  - 10.3390/polym16121626
+UR  - https://doi.org/10.3390/polym16121626
+AB  - A Monte Carlo study of the compatibilization of A/B polymer blends has been performed using the bond fluctuation model. The considered compatibilizers are copolymer molecules composed of A and B blocks. Different types of copolymer structures have been included, namely, linear diblock and 4-block alternating copolymers, star block copolymers, miktoarm stars, and zipper stars. Zipper stars are composed of two arms of diblock copolymers arranged in alternate order (AB and BA) from the central unit, along with two homogeneous arms of A and B units. The compatibilization performance has been characterized by analyzing the equilibration of repulsion energy, the simulated scattering intensity obtained with opposite refractive indices for A and B, the profiles along a coordinate axis, the radial distribution functions, and the compatibilizer aggregation numbers. According to the results, linear alternate block copolymers, star block copolymers, and zipper stars exhibit significantly better compatibilization, with zipper stars showing slightly but consistently better performance.
+ER  - 
+
+TY  - JOUR
+TI  - Organic Electrochemical Transistors Based on Blend Films with Thermoresponsive Polymer
+AU  - Shunsuke Yamamoto
+AU  - Shuhei Kindaichi
+AU  - Ryosuke Matsubara
+AU  - Atsushi Kubono
+AU  - Rajiv Giridharagopal
+AU  - David S. Ginger
+AU  - Masaya Mitsuishi
+PY  - 2025
+DO  - 10.1002/smll.202501927
+UR  - https://doi.org/10.1002/smll.202501927
+AB  - Abstract Organic electrochemical transistors (OECTs) are biocompatible devices with significant potential for biosensing. Functionalizing the channel layers is essential for improving the selectivity and sensitivity of OECT‐based biosensors. A straightforward one‐step fabrication method for these functionalized channel layers can simplify the production process for these devices. This study developed OECT devices based on a polymer blend of poly(3,4‐ethylenedioxythiophene)‐poly(styrenesulfonate) (PEDOT:PSS) and poly( N ‐isopropylacrylamide) (PNIPAM) that respond to temperature changes. Structural analyses of the blended films showed that hole transport through PEDOT is maintained even after blending, and the PNIPAM is segregated at the surface. To overcome the large chain conformational change that occurs with temperature changes, a flexible poly(ethylene glycol) diglycidyl ether (PEGDE) crosslinker is used in addition to the conventional crosslinker, (3‐glycidyloxypropyl)trimethoxysilane (GOPS). As a result, the PEGDE + GOPS binary crosslinker system exhibited reversible responses to temperature cycling. These results highlight two key considerations when designing a functional mixed‐conductor film based on a polymer blend system: (1) vertical phase separation and (2) proper crosslinker selection.
+ER  - 
+
+TY  - JOUR
+TI  - Study of Tunable Dielectric Permittivity of PBDB-T-2CL Polymer in Ternary Organic Blend Thin Films Using Spectroscopic Ellipsometry
+AU  - Laura Hrostea
+AU  - Georgiana-Andreea Bulai
+AU  - Vasile Tiron
+AU  - Liviu Leontie
+PY  - 2023
+DO  - 10.3390/polym15183771
+UR  - https://doi.org/10.3390/polym15183771
+AB  - The ellipsometric analyses reported in this paper present a novelty by bringing an in-depth optical investigation of some ternary organic blends. This study focuses on the tunability and control of the relative permittivity of active layers by varying the weight ratio of blended materials spin-coated as thin films. To investigate this, an extensive approach based on spectroscopic ellipsometry was conducted on ternary blend (D:A1:A2) thin films, involving a donor [D = chlorinated conjugated polymer (PBDB-T-2Cl)] and two acceptor materials [A1 = a non-fullerene (ITIC-F) and A2 = a fullerene (PCBM)]. The refractive index constitutes a key parameter that exposes insights into the feasibility of photovoltaic cells by predicting the trajectory of light as it transits the device. In this term, higher obtained refractive indexes support higher absorption coefficients. Notably, the dielectric constant can be rigorously tuned and finely calibrated by modest variations in the quantity of the third element, resulting in considerable modifications. Moreover, the inclusion of fullerene in blends, as the third element, results in a smooth topographical profile, further refining the surface of the film. From an electrical point of view, the ternary blends outperform the polymer thin films. The synergistic interaction of constituents emphasizes their potential to enhance solar conversion devices.
+ER  - 
+
+TY  - JOUR
+TI  - Strain‐induced morphology evolution and charge transport in conjugated polymer films
+AU  - Zicheng Ding
+AU  - Kui Zhao
+AU  - Yanchun Han
+PY  - 2025
+DO  - 10.1002/idm2.12223
+UR  - https://doi.org/10.1002/idm2.12223
+AB  - Abstract Stretchable conjugated polymer films are pivotal in flexible and wearable electronics. Despite significant advancements in film stretchability through molecular engineering and multicomponent blending, these conjugated polymer films often exhibit limited elastic ranges and reduced carrier mobilities under large strain or after cyclic stretching. These limitations hinder their application in wearable electronics. Therefore, it is imperative to reveal the mechanical fatigue mechanisms and incorporate multiple strain energy dissipation strategies to enhance elastic deformation and electrical performance of stretched conjugated polymer films. In this review, we begin by introducing the typical mechanical behaviors of conjugated polymer films. Subsequently, we discuss the multiscale structural evolution under various stretching conditions based on both in‐situ and ex‐situ characterizations. This analysis is further related to the diverse strain energy dissipation mechanisms. We next establish the correlation between strain‐induced microstructure and the electrical performance of stretched conjugated polymer films. After that, we propose to develop highly elastic conjugated polymer films by constructing stable crosslinks and promoting polymer dynamics in low‐crystalline polymer films. Finally, we highlight the future opportunities for high‐performance and mechanically stable devices based on stretchable conjugated polymer films.
+ER  - 
+
+TY  - JOUR
+TI  - Characterization and charge transport properties of sodium ion conducting PEO : NaBr solid polymer electrolyte films
+AU  - Shreedatta Hegde
+AU  - Vasachar Ravindrachary
+AU  - Ganesh Sanjeev
+AU  - Ismayil
+PY  - 2023
+DO  - 10.1002/pen.26389
+UR  - https://doi.org/10.1002/pen.26389
+AB  - Abstract The study examines the effects of metal salt doping on polyethylene oxide (PEO) solid polymer electrolyte films. Sodium Bromide (NaBr) doped PEO films are prepared using a solution casting technique. The study finds that Na + rom NaBr interacts with PEO's ether group (C–O–C) through complexation, as confirmed by Fourier Transform Infrared (FTIR) Spectroscopy. X‐ray diffraction analysis reveals that NaBr reduces PEO's degree of crystallinity. The addition of NaBr improves PEO's thermal stability, as shown by thermogravimetric analysis (TGA). Scanning electron microscopy (SEM) images show smooth surface morphology of the polymer electrolyte films. The study also finds that the polymer electrolytes are non‐Debye in nature, based on dielectric studies. The highest ionic conductivity of 1.01 × 10 −5 S/cm is observed for the 12.5 wt% NaBr doped PEO, with a low activation energy of 0.246 eV. Wagner's polarization technique is used to determine the charge carrier transport numbers, and the transient ionic current technique confirmed the presence of a single ionic species in the polymer electrolyte. Overall, the study suggests that 12.5 wt% NaBr doped PEO films have appropriate electrical properties for developing charge storage devices.
+ER  - 
+
+TY  - JOUR
+TI  - Space Syntax and Urban Morphology in Historical Context: Mapping Green Space Systems in the Hungarian Part of Habsburg Central Europe
+AU  - Éva Lovra
+AU  - Elif Sarihan
+PY  - 2026
+DO  - 10.3390/land15040564
+UR  - https://doi.org/10.3390/land15040564
+AB  - The research examines the evolution of urban green spaces within Habsburg Central European cities. It analyses how the Austro-Hungarian Compromise (Ausgleich, 1867) was associated with urban planning and integrating green space into existing historical urban fabrics. The study combines urban morphological analysis and space syntax to compare historical and contemporary urban structures. It identifies the historical factors, including early modern urban planning, relevant legal frameworks, and the emergence of landscape architecture, that associated with the formation of these green networks. Focusing on the late 19th and early 20th centuries’ green spaces in Bratislava and Novi Sad, the study defines the spatial integration of urban green spaces within the built form to represent the change in the urban fabric as a whole. It reveals patterns in their integration, accessibility, and association with urban fabric development, contributing to understanding of Central European urban evolution, planning, and green space distribution’s influence on contemporary towns.
+ER  - 
+
+TY  - JOUR
+TI  - In Situ Studies of Solvent Additive Effects on the Morphology Development during Printing of Bulk Heterojunction Films for Organic Solar Cells
+AU  - Dan Yang
+AU  - Sebastian Grott
+AU  - Xinyu Jiang
+AU  - Kerstin S. Wienhold
+AU  - Matthias Schwartzkopf
+AU  - Stephan V. Roth
+AU  - Peter Müller‐Buschbaum
+PY  - 2020
+DO  - 10.1002/smtd.202000418
+UR  - https://doi.org/10.1002/smtd.202000418
+AB  - Abstract The development of polymer morphology and crystallinity of printed bulk heterojunction (BHJ) films doped with the different solvent additives 1,8‐diiodooctane (DIO) or diphenyl ether (DPE) is investigated with in situ grazing‐incidence small/wide‐angle X‐ray scattering. The solvent additives, having different boiling points, lead to a different film drying behavior and morphology growth states in the BHJ films of the benzothiadiazole‐based polymer (PPDT2FBT) and [6,6]‐phenyl‐C71‐butyric acid methyl ester (PC 71 BM). The phase demixing in the printed films is changing over time along with solvent evaporation. Polymer domains start aggregating to form larger domains in the liquid–liquid phase, while phase separation mainly occurs in the liquid–solid phase. The present work provides a profound insight into the morphology development of printed BHJ films doped with different solvent additives, which is particularly important for the large‐scale fabrication of organic photovoltaics.
+ER  - 
+
+TY  - JOUR
+TI  - Device Modeling of Organic Photovoltaic Cells with Traditional and Inverted Cells Using s-SWCNT:C60 as Active Layer
+AU  - Vijai M. Moorthy
+AU  - Viranjay M. Srivastava
+PY  - 2022
+DO  - 10.3390/nano12162844
+UR  - https://doi.org/10.3390/nano12162844
+AB  - This research work presents a thorough analysis of Traditional Organic Solar Cell (TOSC) and novel designed Inverted OSC (IOSC) using Bulk Hetero-Junction (BHJ) structure. Herein, 2D photovoltaic device models were used to observe the results of the semiconducting Single Wall Carbon Nanotube (s-SWCNT):C60-based organic photovoltaic. This work has improved the BHJ photodiodes by varying the active layer thickness. The analysis has been performed at various active layer thicknesses from 50 to 300 nm using the active material s-SWCNT:C60. An analysis with various parameters to determine the most effective parameters for organic photovoltaic performance has been conducted. As a result, it has been established that IOSC has the maximum efficiency of 10.4%, which is higher than the efficiency of TOSC (9.5%). In addition, the active layer with the highest efficacy has been recorded using this material for both TOSC and IOSC Nano Photodiodes (NPDs). Furthermore, the diode structure and geometrical parameters have been optimized and compared to maximize the performance of photodiodes.
+ER  - 
+
+TY  - JOUR
+TI  - Comparing Donor- and Acceptor-Originated Exciton Dynamics in Non-Fullerene Acceptor Blend Polymeric Systems
+AU  - Chan Im
+AU  - Sang-Woong Kang
+AU  - Jeong-Yoon Choi
+AU  - Jongdeok An
+PY  - 2021
+DO  - 10.3390/polym13111770
+UR  - https://doi.org/10.3390/polym13111770
+AB  - Non-fullerene type acceptors (NFA) have gained attention owing to their spectral extension that enables efficient solar energy capturing. For instance, the solely NFA-mediated absorbing region contributes to the photovoltaic power conversion efficiency (PCE) as high as ~30%, in the case of the solar cells comprised of fluorinated materials, PBDB-T-2F and ITIC-4F. This implies that NFAs must be able to serve as electron donors, even though they are conventionally assigned as electron acceptors. Therefore, the pathways of NFA-originated excitons need to be explored by the spectrally resolved photovoltaic characters. Additionally, excitation wavelength dependent transient absorption spectroscopy (TAS) was performed to trace the nature of the NFA-originated excitons and polymeric donor-originated excitons separately. Unique origin-dependent decay behaviors of the blend system were found by successive comparing of those solutions and pristine films which showed a dramatic change upon film formation. With the obtained experimental results, including TAS, a possible model describing origin-dependent decay pathways was suggested in the framework of reaction kinetics. Finally, numerical simulations based on the suggested model were performed to verify the feasibility, achieving reasonable correlation with experimental observables. The results should provide deeper insights in to renewable energy strategies by using novel material classes that are compatible with flexible electronics.
+ER  - 
+
+TY  - JOUR
+TI  - Mobility Relaxation of Holes and Electrons in Polymer:Fullerene and Polymer : Non‐Fullerene Acceptor Solar Cells
+AU  - Fumiya Hamada
+AU  - Akinori Saeki
+PY  - 2021
+DO  - 10.1002/cssc.202100566
+UR  - https://doi.org/10.1002/cssc.202100566
+AB  - Abstract A non‐fullerene small molecular acceptor (NFA) is a prominent molecule that shows moderate electron mobility and a narrow bandgap complementary to middle‐bandgap p‐type conjugated polymers, which leads to great improvement in the performance of organic photovoltaic (OPV) cells. However, little is known about the relaxation of charge carriers, which is key to efficient charge transport. Simultaneous time‐of‐flight (TOF) and time‐resolved microwave conductivity (TRMC) measurements have been carried out on benzodithiophene‐based polymer (PBDB‐T):soluble C 70 ‐fullerere (PCBM) and PBDB‐T:NFA (ITIC or Y6) blends, as benchmark systems. In addition to the conventional TOF mobilities, relaxation of the hole and electron mobility are evaluated by TRMC under an external electric field. PBDB‐T : ITIC exhibits much faster relaxation than PBDB‐T : PCBM, whereas that in PBDB‐T : Y6 is moderate. This is consistent with the energetic disorder estimated from the photoabsorption onset. Interestingly, the slower relaxation of the electrons compared to the holes in PBDB‐T : Y6 is in line with the preferred normal device structure. Our work deepens the understanding of the energetics of polymer : NFA blends and offers a basis for achieving efficient NFA properties.
+ER  - 
+
+TY  - JOUR
+TI  - Studies of photoexcitations in polymer/non-fullerene blend for high-efficiency organic solar cells
+AU  - Dipak Raj Khanal
+AU  - Evan Lafalce
+AU  - Z. Valy Vardeny
+PY  - 2021
+DO  - 10.1063/5.0048981
+UR  - https://doi.org/10.1063/5.0048981
+AB  - We studied the photoexcitations properties in the blend of PBDB-T-SF, a donor π-conjugated copolymer, and ITIC-2F, a non-fullerene acceptor molecule, which is used as an active layer in high-performance organic photovoltaic (OPV) solar cells. We used several steady-state spectroscopies such as photoinduced absorption (PIA), photoluminescence (PL), magneto-photoinduced absorption (MPA), and magneto-PL in the pristine and blend films. The PIA spectra of the pristine copolymer and acceptor films contain a photoinduced absorption (PA) band due to triplet excitons, which is confirmed by the MPA(B) response, whereas the PIA spectrum of the copolymer/molecule blend contains several PA bands due to polaron pairs at the copolymer chain/molecule interfaces. Interestingly, when exciting the PIA spectrum of the blend at two different photon energies, namely, ℏω≈2.39 eV that preferentially excites the copolymer chains and ℏω≈1.58 eV that excites only the acceptor molecules, we found that the PIA spectra are the same. This shows that charge photogeneration is possible when exciting either the copolymer chains or the acceptor molecules, which might explain the high power conversion efficiency of OPV cells based on this blend. We also found from the MPA(B) responses of the pristine copolymer and acceptor films and their blend that the back reaction of the photogenerated polaron pairs into the copolymer forming triplet excitons is absent, further explaining the high power conversion efficiency of this blend as the active layer in OPV solar cells.
+ER  - 
+
+TY  - JOUR
+TI  - Wide bandgap polymer donors for high efficiency non-fullerene acceptor based organic solar cells
+AU  - Keqiang He
+AU  - Pankaj Kumar
+AU  - Yi Yuan
+AU  - Yuning Li
+PY  - 2021
+DO  - 10.1039/d0ma00790k
+UR  - https://doi.org/10.1039/d0ma00790k
+AB  - Structural design and processing of wide bandgap (WBG) polymer donors for non-fullerene acceptors ITIC, IT-4F, and Y6 to achieve ultrahigh efficiency are discussed.
+ER  - 
+
+TY  - JOUR
+TI  - Characteristics of the Colorless Polyimide-Based Flexible X-ray Detector with Non-Fullerene Acceptor Polymer
+AU  - Jehoon Lee
+AU  - Jongkyu Won
+AU  - Duhee Lee
+AU  - Hailiang Liu
+AU  - Jungwon Kang
+PY  - 2022
+DO  - 10.3390/nano12060918
+UR  - https://doi.org/10.3390/nano12060918
+AB  - In this paper, we investigate the characteristics of the colorless polyimide (CPI) film-based flexible organic X-ray detector. The CPI film can be applied to various applications, because it shows excellent visible light transmittance by removing the yellow color of polyimide (PI) film, which has the advantage of physical and chemical stability. In addition, the deformation curvature of the CPI substrate according to temperature showed similar characteristics to that of the glass substrate. For the organic active layer of the proposed detector, PBDB-T was fixed as a donor, and PC71BM and ITIC were used as acceptors. To evaluate the mechanical stability of the flexible detector, the degradation sensitivity was measured as bending curvature and bending cycle. The sensitivity of the detector with ITIC acceptor showed a 46.82% higher result than PC71BM acceptor on bending curvature (R = 10); and at the same curvature, when the bending cycle was 500 times, a 135.85% higher result than PC71BM acceptor.
+ER  - 
+
+TY  - JOUR
+TI  - Thermo-Optical and Structural Studies of Iodine-Doped Polymer: Fullerene Blend Films, Used in Photovoltaic Structures
+AU  - Bożena Jarząbek
+AU  - Paweł Nitschke
+AU  - Marcin Godzierz
+AU  - Marcin Palewicz
+AU  - Tomasz Piasecki
+AU  - Teodor Paweł Gotszalk
+PY  - 2022
+DO  - 10.3390/polym14050858
+UR  - https://doi.org/10.3390/polym14050858
+AB  - Optical and structural properties of a blend thin film of (1:1 wt.) of poly(3-hexylthiophene) (P3HT) and [6,6]-phenyl-C61-butyric acid methyl ester (PCBM) doped with iodine (I2) and then exposed to a stepwise heating were reported and compared with the properties of doped P3HT films. The UV-Vis(T) absorption measurements were performed in situ during annealing runs, at the precisely defined temperatures, in a range of 20–210 °C. It was demonstrated that this new method allows one to observe the changes of absorption spectra, connected with the iodine release and other structural processes upon annealing. In addition, the thermally-induced changes of the exciton bandwidth (W) and the absorption edge parameters, i.e., the energy gap (EG) and the Urbach energy (EU) were discussed in the context of different length of conjugation and the structural disorder in polymers and blends films. During annealing, several stages were distinguished and related to the following processes as: the iodine escape and an increase in P3HT crystallinity, the orderly stacking of polymer chains, the thermally inducted structural defects and the phase separation caused by an aggregation of PCBM in the polymer matrix. Moreover, the detailed X-ray diffraction studies, performed for P3HT and P3HT:PCBM films, before and after doping and then after their thermal treatment, allowed us to consider the structural changes of polymer and blend films. The effect of iodine content and the annealing process on the bulk heterojunction (BHJ) solar cells parameters was checked, by the impedance spectroscopy (IS) measurements and the J-V characteristics registration. All of the investigated P3HT:PCBM blend films showed the photovoltaic effect; the increase in power conversion efficiency (PCE) upon iodine doping was demonstrated.
+ER  - 
+
+TY  - JOUR
+TI  - How side‐chain hydrophilicity modulates morphology and charge transport in mixed conducting polymers
+AU  - Aditi Khot
+AU  - Brett M. Savoie
+PY  - 2022
+DO  - 10.1002/pol.20210773
+UR  - https://doi.org/10.1002/pol.20210773
+AB  - Abstract Organic mixed ionic‐electronic conductors (OMIECs) are a developing class of organic electronic materials distinguished by their dual modes of conduction. The side‐chains of OMIEC polymers are responsible for forming a percolating electrolyte phase that mediates doping and ionic conduction. Despite this critical role, design rules for OMIEC side‐chains are still nascent and their effects on OMIEC morphology and charge transport have yet to be systematically studied. Here we perform the first dedicated coarse‐grained molecular dynamics study of OMIECs where the side‐chain identity and distribution are systematically varied using a random copolymer architecture. The simulations recapitulate the nonlinear progression of the morphology from an interfacially gated electrolyte when large fractions of hydrophobic side‐chains are incorporated, to an electrolyte swelled morphology after crossing a threshold of approximately 40% polar side‐chains. Kinetic Monte Carlo simulations were used to characterize the charge transport behaviors in these systems, revealing two interesting maxima in the mobility at 40% and 100% polar side‐chain fractions, respectively. With respect to maximizing the charge mobility and conductivity, these simulations suggest that a uniform hydrophilic side‐chain distribution is optimal and that there are few advantages to using mixed side‐chains in a random copolymer architecture. These results also suggest several alternative side‐chain engineering strategies for optimizing OMIEC performance.
+ER  - 
+
+TY  - GEN
+TI  - Extending Graph-based Lattice Kinetic Monte Carlo Simulations to Polymer Transformations
+AU  - Sophia Ezendu
+AU  - Tibor Szilvasi
+PY  - 2026
+DO  - 10.26434/chemrxiv-2026-h28k3
+UR  - https://doi.org/10.26434/chemrxiv-2026-h28k3
+AB  - Multiscale simulations offer a way to understand how polymer transformations proceed under realistic conditions, however existing workflows rely on empirically tuned parameters. The MUltiscale SImulation frameworK (MUSIK) integrates conformer analysis, density functional theory and high-level coupled-cluster energetics, and graph-based lattice kinetic Monte Carlo (kMC) to generate chemically accurate, spatially and temporally resolved kinetic models for polymer transformations without parameter fitting. The present work introduces MUSIK as a reproducible workflow and provides a step-by-step tutorial that shows how to construct, run, and analyze a lattice kMC model for base-assisted dehydrochlorination of polyvinyl chloride (PVC), supported by post-processing scripts that automate kMC trajectory analysis and polymer-structure reconstruction. Tutorial results demonstrate how MUSIK links atomic energetics and local structure to macroscopic kinetics and structural evolution and reproduces key experimental observations for PVC dehydrochlorination. MUSIK is generalizable to arbitrary polymer chemistries and can provide practical recommendations for polymer recycling, upcycling, and materials design to address plastic-waste challenge.
+ER  - 
+
+TY  - JOUR
+TI  - Low‐Power Piezoelectric Energy From Chiral Supramolecular Polymer of a Donor–Acceptor–Donor Conjugated π‐System
+AU  - Swadesh Paul
+AU  - Aritri Pal
+AU  - Suhrit Ghosh
+AU  - Anuja Datta
+PY  - 2025
+DO  - 10.1002/chem.202500540
+UR  - https://doi.org/10.1002/chem.202500540
+AB  - Abstract Soft piezoelectric systems have high demands in flexible, shape conformable and biocompatible low‐power electronics. This paper explores chiral supramolecular polymerization of an ambipolar donor–acceptor–donor (DAD)‐type π‐system showing emerging piezoelectric properties for harvesting micro energies. The DAD molecule is designed with two conjugated thiophene donors with a central naphthalene‐diimide (NDI) acceptor chromophore to facilitate intra‐molecular charge‐transfer, evident from a prominent absorption band in the visible region. This chromophore is further appended with two chiral benzamide‐wedges for homochiral supramolecular polymerization. The ambipolar character of the chiral DAD chromophore is manifest from the cyclic voltammogram. Extended H‐bonding among the amide groups leads to homochiral supramolecular polymerization in methyl‐cyclohexane, which is retained in the solid film. The impeccable piezoelectricity in poled DAD film revealed a d 33 ∼ 7 pm/V as measured by the piezoforce microscopy. Poled piezo DAD devices under optimized periodic external impact force, frequencies and supplied electric field generate a viable output voltage and current density of 1.3 V, 0.8 µA/cm 2 , and P output ∼ 1.6 µW/cm 2 , respectively. As a proof‐of‐concept demonstration, stacked and poled supramolecular π‐conjugated DAD devices are shown to viably illuminate a light emitting diode through charging a series of micro capacitors, indicating the potential utility for low power technologies.
+ER  - 
+
+TY  - GEN
+TI  - Polymer blend nanocomposites of fullerene for energy storage
+AU  - Rama Kanwar Khangarot
+AU  - Ayushi Bhatnagar
+AU  - Gangotri Pemawat
+PY  - 2023
+DO  - 10.1016/b978-0-323-99549-8.00003-0
+UR  - https://doi.org/10.1016/b978-0-323-99549-8.00003-0
+ER  - 
+
+TY  - JOUR
+TI  - Molecular level resolution of the crucial differences in the morphologies of non-fullerene acceptor Y derivatives/donor polymer pm6 heterogeneous films
+AU  - Ling Yang
+AU  - Xiao-Min Zhang
+AU  - Bin Tu
+AU  - Zhi-Yong Yang
+PY  - 2024
+DO  - 10.1016/j.surfin.2024.105418
+UR  - https://doi.org/10.1016/j.surfin.2024.105418
+ER  - 
+
+TY  - GEN
+TI  - Fullerene and polymer/fullerene nanomaterials in industry
+AU  - Ayesha Kausar
+PY  - 2023
+DO  - 10.1016/b978-0-323-99515-3.00004-3
+UR  - https://doi.org/10.1016/b978-0-323-99515-3.00004-3
+ER  - 
+
+TY  - JOUR
+TI  - Biaxially strain-induced polymer crystallization studied by dynamic Monte Carlo simulations
+AU  - Wen Luo
+AU  - Ruiqi Mi
+AU  - Yiting Wei
+AU  - Yaqian Guo
+AU  - Jiping Wang
+AU  - Wenbing Hu
+PY  - 2024
+DO  - 10.1016/j.polymer.2024.126983
+UR  - https://doi.org/10.1016/j.polymer.2024.126983
+ER  - 
+
+TY  - JOUR
+TI  - Performance Study of Bulk Heterojunction Organic Synaptic Transistors Based on Polymer Blends
+AU  - Yixin Zhang
+PY  - 2025
+DO  - 10.1109/acctcs66275.2025.00049
+UR  - https://doi.org/10.1109/acctcs66275.2025.00049
+ER  - 
+
+TY  - JOUR
+TI  - Semiconductor waste-derived LiGaO2: A multifunctional regulator for crystallization, ion transport, and stability in polymer electrolytes
+AU  - Weiliang Gong
+AU  - Jianming Tao
+AU  - Yanhuang Cai
+AU  - Junlin Wu
+AU  - Zhicheng Zhang
+AU  - Chenlong Chen
+AU  - Zhigao Huang
+AU  - Yingbin Lin
+PY  - 2025
+DO  - 10.1063/5.0281318
+UR  - https://doi.org/10.1063/5.0281318
+AB  - Succinonitrile (SN)-based composite polymer electrolytes offer high ionic conductivity and flexibility for solid-state lithium metal batteries (SSLMBs); however, they suffer from cyano group-induced interfacial side reactions and PVDF's crystallinity-driven performance limitations. Herein, we introduce semiconductor waste-derived LiGaO2 (LGO) as a multifunctional additive to address these challenges. LGO's high-dielectric constant modulates PVDF-HFP crystallization into disordered amorphous domains, reducing interfacial resistance and enhancing exchange current density. Simultaneously, LGO promotes LiTFSI dissociation via dipole interactions while anchoring SN molecules, suppressing migration and side reactions. The optimized electrolyte achieves an ionic conductivity of 1.24 × 10−3 S·cm−1, a transference number of 0.67, an activation energy of 0.13 eV, and a critical current density of 0.8 mA·cm−2 at 45 °C. Symmetric Li cells show stable cycling, while LiCoO2/Li batteries exhibit superior rate performance (111.8 mAh·g−1 at 2 C) and retain 61.4% capacity after 100 cycles at 0.5 C with 99.2% average Coulombic efficiency. These findings reveal the core mechanism of high-dielectric constant nanomaterials in regulating crystallization kinetics and promoting internal ionic transport in multicomponent polymer electrolytes, providing new directions for the development of SSLMBs.
+ER  - 
+
+TY  - JOUR
+TI  - Effect of polymer donor aggregation on the active layer morphology of amorphous polymer acceptor-based all-polymer solar cells
+AU  - Lu Zhang
+AU  - Zicheng Ding
+AU  - Ruyan Zhao
+AU  - Feng Jirui
+AU  - Wei Ma
+AU  - Jun Liu
+AU  - Lixiang Wang
+PY  - 2020
+DO  - 10.1039/c9tc06668c
+UR  - https://doi.org/10.1039/c9tc06668c
+AB  - The aggregation tendency in solution of polymer donors is the dominant factor in the phase separation of semi-crystalline polymer donor/amorphous polymer acceptor blends in all-PSCs.
+ER  - 
+
+TY  - JOUR
+TI  - Donor-Acceptor Polymer Based on Planar Structure of Alkylidene-Fluorene Derivative: Correlation of Power Conversion Efficiency among Polymer and Various Acceptor Units
+AU  - Eui Jin Lee
+AU  - Ho Jun Song
+PY  - 2020
+DO  - 10.3390/polym12122859
+UR  - https://doi.org/10.3390/polym12122859
+AB  - This study synthesized a novel polymer, poly(alkylidene fluorene-alt-diphenylquinoxaline) (PAFDQ), based on a planar alkylidene-fluorene and a highly soluble quinoxaline derivative through the Suzuki coupling reaction. We designed a novel molecular structure based on alkylidene fluorene and quinoxaline derivatives due to compact packing property by the planar structure of alkyidene fluorene and efficient intra-molecular charge transfer by quinoxaline derivatives. The polymer was largely dissolved in organic solvents, with a number average molecular weight and polydispersity index of 13.2 kg/mol and 2.74, respectively. PAFDQ showed higher thermal stability compared with the general fluorene structure owing to its rigid alkylidene-fluorene structure. The highest occupied and lowest unoccupied molecular orbital levels of PAFDQ were −5.37 eV and −3.42 eV, respectively. According to X-ray diffraction measurements, PAFDQ exhibited the formation of an ordered lamellar structure and conventional edge-on π-stacking. The device based on PAFDQ/Y6-BO-4Cl showed the best performance in terms of short circuit current (9.86 mA/cm2), open-circuit voltage (0.76 V), fill factor (44.23%), and power conversion efficiency (3.32%). Moreover, in the PAFDQ/Y6-BO-4Cl-based film, the phase separation of donor-rich and acceptor-rich phases, and the connected dark domains, was observed.
+ER  - 
+
+TY  - JOUR
+TI  - Bi‐layer gelatin active films with “Pitanga” leaf hydroethanolic extract and/or natamycin in the second layer
+AU  - Carla G. Luciano
+AU  - Larissa Tessaro
+AU  - Rodrigo V. Lourenço
+AU  - Ana Mônica Q. B. Bittante
+AU  - Andrezza M. Fernandes
+AU  - Paulo J. A. Sobral
+PY  - 2021
+DO  - 10.1002/app.51246
+UR  - https://doi.org/10.1002/app.51246
+AB  - Abstract Research on biopolymers‐based active films produced with natural antioxidants and/or antimicrobials has gained attention over the last few years; however, anti‐mold activity has been less studied than those of anti‐bacteria. The aim of this work was the development and characterization of bi‐layer films based on gelatin with natamycin and/or “Pitanga” leaf hydroethanolic extract in the second thin layer in order to determine the effects of these bioactive compounds on bi‐layered film properties. The films were characterized regarding their moisture content and solubility in water, optical properties, microstructure, mechanical and thermal properties, water contact angle, water vapor permeability, UV/visible light transmission, X‐ray diffraction, Fourier transform infrared (FTIR) spectroscopy, and antioxidant and anti‐mold activities. Active films presented activity against Penicillium spp and Aspergillus niger and demonstrated antioxidant activity, as measured by ABTS •+ and DPPH • methods. Neither additive used in the films' second layer significantly affected the films' moisture content, thermal properties or the molecular interactions of the polymer matrix, assessed by FTIR, although some mechanical properties were affected, and the water contact angle. In conclusion, bi‐layer films have reduced the quantity of additives required to maintain the antioxidant and anti‐mold activities, as compared to similar monolayer films of the same thickness.
+ER  - 
+
+TY  - JOUR
+TI  - Balancing the Molecular Aggregation and Vertical Phase Separation in the Polymer: Nonfullerene Blend Films Enables 13.09% Efficiency of Organic Solar Cells with Inkjet‐Printed Active Layer
+AU  - Xingze Chen
+AU  - Rong Huang
+AU  - Yunfei Han
+AU  - Wusong Zha
+AU  - Jin Fang
+AU  - Jian Lin
+AU  - Qun Luo
+AU  - Zheng Chen
+AU  - Chang‐Qi Ma
+PY  - 2022
+DO  - 10.1002/aenm.202200044
+UR  - https://doi.org/10.1002/aenm.202200044
+AB  - Abstract Drop‐on demand inkjet‐printing (IJP) is a deposition technique with promise in the context of fabricating large‐area organic solar cells (OSCs) because of its high material usage, direct‐pattern, and large‐area roll‐to‐roll printing compatibility. But its feature of drop‐to‐drop deposition during IJP makes the film's drying and phase separation process different from spin‐coating, and forms different nanophase separation and vertical phase separation morphology. In this work, the nanophase separation of the inkjet‐printed organic blend films is systematically studied at different substrate temperatures. The results reveal that increasing the substrate temperature can suppress excess molecules aggregation owing to the high drying speed, leading to improved exciton dissociation efficiency in the blend films. However, the quick drying process at high temperature also leads to a homogenous vertical phase separation, which is not ideal for charge collection. Instead of printing the mixture of donor and acceptor solution directly to form the bulk‐heterojunction structure, the polymer donor is printed on the top of the acceptor surface, a so‐called layer‐by‐layer inkjet printing (LBL‐IJP) process. By using this LBL‐IJP route, balanced nanoscale phase aggregation and gradient vertical phase separation morphology are achieved, which leads to a record power conversion efficiency of 13.09% for the OSCs with an inkjet‐printed active layer.
+ER  - 
+
+TY  - JOUR
+TI  - Measuring the Pores’ Structure in P3HT Organic Polymeric Semiconductor Films Using Interface Electrolyte/Organic Semiconductor Redox Injection Reactions and Bulk Space-Charge
+AU  - Franz Schauer
+PY  - 2022
+DO  - 10.3390/polym14173456
+UR  - https://doi.org/10.3390/polym14173456
+AB  - The article is another in a series of follow-up articles on the new spectroscopic method Energy Resolved–Electrochemical Impedance Spectroscopy (ER-EIS) and presents a continuation of the effort to explain the method for electronic structure elucidation and its possibilities in the study of organic polymeric semiconductors. In addition to the detailed information on the electronic structure of the investigated organic semiconductor, the paper deals with three of the hitherto not solved aspects of the method, (1) the pores structure, which has been embedded in the evaluation framework of the ER-EIS method and shown, how the basic quantities of the pores structure, the volume density of the pores’ density coefficient β = (0.038 ± 0.002) nm−1 and the Brunauer-Emmet-Teller surface areas SABET SA == 34.5 m2g−1 may be found by the method, here for the archetypal poly(3-hexylthiophene-2,5-diyl) (P3HT) films. It is next shown, why the pore’s existence needs not to endanger the spectroscopic results of the ER-EIS method, and a proper way of the ER-EIS data evaluation is presented to avoid it. It is highlighted (2), how may the measurements of the pore structure contribute to the determination of the, for the method ER-EIS important, real rate constant of the overall Marcus’ D-A charge-transfer process for the poreless material and found its value kctD-A = (2.2 ± 0.6) × 10−25 cm4 s−1 for P3HT films examined. It is also independently attempted (3) to evaluate the range of kctD-A, based on the knowledge of the individual reaction rates in a chain of reactions, forming the whole D-A process, where the slowest one (organic semiconductor hopping transport) determines the tentative total result kctD-A ≅ 10−25 cm4 s−1. The effect of injection of high current densities by redox interface reactions in the bulk of OS with built-in pores structure may be very interesting for the design of new devices of organic electronics.
+ER  - 
+
+TY  - JOUR
+TI  - Coarse-grained molecular simulation of the effects of carbon nanotube dispersion on the mechanics of semicrystalline polymer nanocomposites
+AU  - Chao Wu
+AU  - Ruidong Wu
+AU  - Lik-ho Tam
+PY  - 2021
+DO  - 10.1088/1361-6528/abf458
+UR  - https://doi.org/10.1088/1361-6528/abf458
+AB  - Abstract With the incorporation of carbon nanotubes (CNTs), CNT/polypropylene (PP) nanocomposites are found to possess enhanced mechanical properties, but the reinforcing effect is reduced at large added CNT weight percentages due to CNT aggregation. Optimizing the properties of a nanocomposite requires a fundamental understanding of the effects of CNT dispersion on the nanocomposite. In this work, coarse-grained molecular models of CNT/PP nanocomposites are constructed, which consist of randomly dispersed or aggregated CNT bundles. Our simulation results reveal that with randomly dispersed CNT bundles, the nanocomposite shows properties that continuously improve with increasing CNT contents due to the effective CNT/PP interface and the reinforcing effect of CNTs. By comparison, the nanocomposite with aggregated CNT clusters exhibits a decline in yield strength at CNT contents over 3 wt%, which results from a reduced CNT load-carrying capacity due to the formation of structural voids in the interfacial region. This study achieves an in situ observation of the structural void evolution of loaded nanocomposites, provides valuable insights into the effects of CNT dispersion on the mechanics of CNT/PP nanocomposites, and paves the way for optimizing the design of nanocomposites with superior mechanical properties by designing the CNT dispersion in the structure.
+ER  - 
+
+TY  - JOUR
+TI  - Percolated Network of Mixed Nanoparticles with Different Sizes in Polymer Nanocomposites: A Coarse-Grained Molecular Dynamics Simulation
+AU  - Xiuying Zhao
+AU  - Yun Nie
+AU  - Haoxiang Li
+AU  - Haoyu Wu
+AU  - Yangyang Gao
+AU  - Liqun Zhang
+PY  - 2021
+DO  - 10.3390/ma14123301
+UR  - https://doi.org/10.3390/ma14123301
+AB  - The size of real nanoparticles (NPs) is polydisperse which can influence the electrical property of polymer nanocomposites (PNCs). Here, we explored the percolated network of mixed NPs with different sizes (small NPs and big NPs) by adopting a molecular dynamics simulation. The simulated results reveal that the big NPs are adverse to building the percolated network compared to the small NPs. Thus, the percolation threshold becomes higher along with increasing the mixing ratio, which denotes the concentration ratio of big NPs to the total NPs. For a better understanding of it, the dispersion state and the number and the size of clusters are employed to analyze the percolated network, which can explain the percolation threshold well. Furthermore, by adopting the Sun’s theory (Macromolecules, 2009, 42, 459–463), small and big NPs exhibit a weak antagonistic effect in the simulation if their total concentration is fixed. On the one hand, the number of small NPs is larger than that of big NPs at the same concentration. In addition, one big NP can connect to more others than one small NP. These two contrast effects are responsible for it. Interestingly, the shear flow leads to more contact aggregation structure of NPs which is beneficial to build the new percolated networks. Especially, the big NPs play a more important role in forming the percolated network than small NPs. Consequently, the percolation threshold is reduced at a higher shear rate. In total, our research work provides a further understanding of how the mixed NPs with different sizes form the percolated network in polymer matrix.
+ER  - 
+
+TY  - JOUR
+TI  - Monte Carlo Simulation of Static and Dynamic Properties of Linear Polymer in a Crowded Environment
+AU  - Deme Tesfaye Umeta
+AU  - Solomon Negash Asfaw
+AU  - Solomon Hailemariam Didu
+AU  - Chimdessa Gashu Feyisa
+AU  - Dereje Kenea Feyisa
+PY  - 2022
+DO  - 10.1155/2022/6707429
+UR  - https://doi.org/10.1155/2022/6707429
+AB  - In this paper, we investigate the static and dynamic properties of linear polymer in the presence of obstacles. A Monte Carlo (MC) simulation method in two dimensions with a bond fluctuation model (BFM) was used to achieve this goal. To overcome the entropic barrier, we put the middle monomer of the polymer in the middle of the pore, which is placed between ordered and disordered obstacles. We probed the static properties of the polymer by calculating the mean square of the radius of gyration and the mean square end-to-end distance of the polymer, and we found that the scaling exponents of both the mean square end-to-end distance R 2 and the mean square radius of gyration R g 2 as a function of the polymer length N vary with the area fraction of crowding agents, ϕ . The dynamic properties have also been studied by exploring the translocation of the polymer. Our current research shows that the escape time τ increases as ϕ increases. Moreover, in the power-law relation of escape time τ as a function of polymer length N , the scaling exponent ( α ) changes with ϕ . Furthermore, the study has shown that the translocation of the polymer favors the disordered barriers.
+ER  - 
+
+TY  - JOUR
+TI  - Influence of sericin‐g‐PLA as an organic nucleating agent for preparing biodegradable blend films
+AU  - Kanittha Boonpavanitchakul
+AU  - Wiyong Kangwansupamonkon
+AU  - Nuttaporn Pimpha
+AU  - Rathanawan Magaraphan
+PY  - 2022
+DO  - 10.1002/app.52389
+UR  - https://doi.org/10.1002/app.52389
+AB  - Abstract Here for the first time, this work indicated that the sericin‐g‐polylactide (SS‐g‐PLA) copolymer can be potentially used as an organic nucleating agent to improve the crystallinity and biodegradability of polylactide (PLA). The properties of blended films containing SS‐g‐PLA mixed with virgin PLA polymer were highly evaluated. The water vapor permeability (WVP), thermal behavior, dynamic mechanical properties, crystal structure, and biodegradability of the PLA/SS‐g‐PLA‐blended films were characterized and compared with a commercial PLA film. The results clearly indicated that the incorporation of SS‐g‐PLA copolymer in the PLA matrix had a significant effect on the properties of PLA/SS‐ g ‐PLA‐blended films. The WVP values of PLA/SS‐g‐PLA‐blended films were lower than that of commercial PLA film by about 2–3 g·mm/m 2 ·day·atm, and their thermal behaviors (e.g. T g , T cc , and T m ) were also decreased. Adding SS‐g‐PLA can increase the crystallinity of PLA. The degree of crystallinity (%χ c ) of the series of PLA/SS‐g‐PLA‐blended films was increased to about 2–4 times that of the commercial PLA film (3%). Interestingly, biodegradation results revealed that the percent of biodegradability of PLA/SS‐g‐PLA‐blended film was 80% in 43 days under a compost environmental temperature of 58 ± 2°C. This evidence indicated that the SS‐g‐PLA copolymer can improve the biodegradability of PLA.
+ER  - 
+
+TY  - JOUR
+TI  - Gas Transport Phenomena and Polymer Dynamics in PHB/PLA Blend Films as Potential Packaging Materials
+AU  - Valentina Siracusa
+AU  - Svetlana Karpova
+AU  - Anatoliy Olkhov
+AU  - Anna Zhulkina
+AU  - Regina Kosenko
+AU  - Alexey Iordanskii
+PY  - 2020
+DO  - 10.3390/polym12030647
+UR  - https://doi.org/10.3390/polym12030647
+AB  - Actually, in order to replace traditional fossil-based polymers, many efforts are devoted to the design and development of new and high-performance bioplastics materials. Poly(hydroxy alkanoates) (PHAS) as well as polylactides are the main candidates as naturally derived polymers. The intention of the present study is to manufacture fully bio-based blends based on two polyesters: poly (3-hydroxybutyrate) (PHB) and polylactic acid (PLA) as real competitors that could be used to replace petrol polymers in packaging industry. Blends in the shape of films have been prepared by chloroform solvent cast solution methodology, at different PHB/PLA ratios: 1/0, 1/9, 3/7, 5/5, 0/1. A series of dynamic explorations have been performed in order to characterize them from a different point of view. Gas permeability to N2, O2, and CO2 gases and probe (TEMPO) electron spin resonance (ESR) analyses were performed. Blend surface morphology has been evaluated by Scanning Electron Microscopy (SEM) while their thermal behavior was analyzed by Differential Scanning Calorimetry (DSC) technique. Special attention was devoted to color and transparency estimation. Both probe rotation mobility and N2, O2, and CO2 permeation have monotonically decreased during the transition from PLA to PHB, for all contents of bio-blends, namely because of transferring from PLA with lower crystallinity to PHB with a higher one. Consequently, the role of the crystallinity was elucidated. The temperature dependences for CO2 permeability and diffusivity as well as for probe correlation time allowed the authors to evaluate the activation energy of both processes. The values of gas transport energy activation and TEMPO rotation mobility are substantially close to each other, which should testify that polymer segmental mobility determines the gas permeability modality.
+ER  - 
+
+TY  - JOUR
+TI  - Influence of Solvent-Dependent Morphology on Molecular Doping and Charge Transport in Conductive Thiophene Polymer
+AU  - Haoyu Chai
+AU  - Hui Li
+AU  - Fei Zhong
+AU  - Zhen Xu
+AU  - Shengqiang Bai
+AU  - Lidong Chen
+PY  - 2022
+DO  - 10.3390/ma15093293
+UR  - https://doi.org/10.3390/ma15093293
+AB  - The utility of a solvent is one of the key factors that impacts resultant film morphology. However, the effect of solvent-dependent morphology on the doping process and electrical conductivity has not been adequately elucidated. In this work, we compared the morphology of chloroform- and chlorobenzene-processed thiophene polymer films and investigated how the choice of solvent influences film morphology, doping level, charge transport properties, and thus electrical conductivity. It was found that the film drop-casted from chloroform exhibits better crystallinity than that drop-casted from chlorobenzene. The crystallinity has negligible impact on the doping level but significant impact on charge transport properties. As a result, the chloroform-processed film shows a higher electrical conductivity of up to 408 S cm−1 due to a high carrier mobility related to the continuously crystalline domains in film. This finding indicates that the choice of solvent for preparation of film, which strongly correlated with molecular orientation, is a new strategy to optimize the electrical conductivity of doped polymers.
+ER  - 
+
+TY  - JOUR
+TI  - Effects of Solvent Vapor Annealing on Morphology and Charge Transport of Poly(3-hexylthiophene) (P3HT) Films Incorporated with Preformed P3HT Nanowires
+AU  - Mingu Jang
+AU  - Yang-Il Huh
+AU  - Mincheol Chang
+PY  - 2020
+DO  - 10.3390/polym12051188
+UR  - https://doi.org/10.3390/polym12051188
+AB  - We systematically studied the influence of solvent vapor annealing on the molecular ordering, morphologies, and charge transport properties of poly(3-hexylthiophene) (P3HT) thin films embedded with preformed crystalline P3HT nanowires (NWs). Solvent vapor annealing (SVA) with chloroform (CF) was found to profoundly impact on the structural and morphological changes, and thus on the charge transport characteristics, of the P3HT-NW-embedded P3HT films. With increased annealing time, the density of crystalline P3HT NWs was increased within the resultant films, and also intra- and intermolecular interactions of the corresponding films were significantly improved. As a result, the P3HT-NW-embedded P3HT films annealed with CF vapor for 20 min resulted in a maximized charge carrier mobility of ~0.102 cm2 V−1 s−1, which is higher than that of pristine P3HT films by 4.4-fold (μ = ~0.023 cm2 V−1 s−1).
+ER  - 
+
+TY  - JOUR
+TI  - Optical and photovoltaic properties of organic solar cells versus bulk-heterojunction morphology
+AU  - Nurzhan Asanov
+AU  - Nora Schopp
+AU  - Constantinos Valagiannopoulos
+AU  - Viktor Brus
+PY  - 2024
+DO  - 10.1103/physrevb.109.205201
+UR  - https://doi.org/10.1103/physrevb.109.205201
+ER  - 
+
+TY  - JOUR
+TI  - Enhancement of Short-Range Ordering of Low-Bandgap Donor–Acceptor Conjugated Polymer in Polymer/Polymer Blend Films
+AU  - Anjar Taufik Hidayat
+AU  - Hiroaki Benten
+AU  - Noboru Ohta
+AU  - Yunju Na
+AU  - Azusa Muraoka
+AU  - Hirotaka Kojima
+AU  - Min-Cherl Jung
+AU  - Masakazu Nakamura
+PY  - 2020
+DO  - 10.1021/acs.macromol.0c00623
+UR  - https://doi.org/10.1021/acs.macromol.0c00623
+ER  - 
+
+TY  - JOUR
+TI  - Fabrication and molecular dynamics studies of layer-by-layer polyelectrolytic films
+AU  - Neelaambhigai Mayilswamy
+AU  - Nimisha Boney
+AU  - Balasubramanian Kandasubramanian
+PY  - 2022
+DO  - 10.1016/j.eurpolymj.2021.110945
+UR  - https://doi.org/10.1016/j.eurpolymj.2021.110945
+ER  - 
+
+TY  - JOUR
+TI  - Ex-situ transferring of polydopamine films on semiconductor interface: Evidence of functional hybrid heterojunction
+AU  - Jakub Szewczyk
+AU  - Marcin Ziółek
+AU  - Katarzyna Siuzdak
+AU  - Igor Iatsunskyi
+AU  - Mikołaj Pochylski
+AU  - Daniel Aguilar-Ferrer
+AU  - Mateusz Kempiński
+AU  - Fida Tanos
+AU  - Jacek Gapiński
+AU  - Mikhael Bechelany
+AU  - Emerson Coy
+PY  - 2024
+DO  - 10.1016/j.eurpolymj.2024.112781
+UR  - https://doi.org/10.1016/j.eurpolymj.2024.112781
+ER  - 
+
+TY  - JOUR
+TI  - Novel donor-acceptor-donor type electrochromic polymers based on 1,3-indandione modified triphenylamine derivatives as new acceptor units
+AU  - Pengjie Chao
+AU  - Yuqing Liao
+AU  - Daize Mo
+AU  - Lanqing Li
+PY  - 2024
+DO  - 10.1016/j.polymer.2024.127633
+UR  - https://doi.org/10.1016/j.polymer.2024.127633
+ER  - 
+
+TY  - JOUR
+TI  - Electrochromic conjugated porous polymers based on N,N,N′,N′-tetraphenyl-1,4-phenylenediamine with donor-donor and donor-acceptor structures
+AU  - Xiangfeng Bo
+AU  - Xiujuan Zhong
+AU  - Shouli Ming
+AU  - Yan Zhang
+AU  - Jinsheng Zhao
+PY  - 2025
+DO  - 10.1016/j.eurpolymj.2025.113894
+UR  - https://doi.org/10.1016/j.eurpolymj.2025.113894
+ER  - 
+
+TY  - JOUR
+TI  - Control of Donor–Acceptor Conjugated Polymer Crystallization for Optimized Film Structures in Organic Transistors
+AU  - Xinxiu Cao
+AU  - Yanchun Han
+PY  - 2025
+DO  - 10.1021/polymscitech.5c00011
+UR  - https://doi.org/10.1021/polymscitech.5c00011
+ER  - 
+
+TY  - JOUR
+TI  - Equal proportion of donor/acceptor active layer for reduced dark current in visible organic photodiode
+AU  - Suraya Annissa Roslan
+AU  - Amirul Ashraf Md Sabri
+AU  - Nur Adilah Roslan
+AU  - Tahani M. Bawazeer
+AU  - Mohammad S. Alsoufi
+AU  - Fakhra Aziz
+AU  - Azzuliani Supangat
+PY  - 2024
+DO  - 10.1016/j.optmat.2023.114781
+UR  - https://doi.org/10.1016/j.optmat.2023.114781
+ER  - 
+
+TY  - JOUR
+TI  - High sensitivity flexible organic X-ray detectors with minor TIPS-pentacene/insulator polymer blend active layer
+AU  - Zhao Hao
+AU  - Yi Li
+AU  - Yuanjian Deng
+AU  - Zehua Chen
+AU  - Jie Liang
+AU  - Xiuzhen Lu
+AU  - Jianhua Zhang
+PY  - 2024
+DO  - 10.1016/j.orgel.2024.107088
+UR  - https://doi.org/10.1016/j.orgel.2024.107088
+ER  - 
+
+TY  - JOUR
+TI  - Recent advances in photodiode-type organic photodetectors: From polymer design to applications
+AU  - Min Hun Jee
+AU  - Myeong In Kim
+AU  - Min Gyu Kang
+AU  - Sumin Lee
+AU  - In Hwan Jung
+AU  - Han Young Woo
+PY  - 2026
+DO  - 10.1016/j.progpolymsci.2026.102122
+UR  - https://doi.org/10.1016/j.progpolymsci.2026.102122
+ER  - 
+
+TY  - JOUR
+TI  - Metal ion-catalyzed interfacial polymerization of functionalized covalent organic framework films for efficient separation
+AU  - Yanqing Qu
+AU  - Yuxin Zha
+AU  - Hongge Jia
+AU  - Yu Zang
+AU  - Yang Liu
+AU  - Tong Gu
+AU  - Xiaoyu Du
+PY  - 2023
+DO  - 10.1016/j.eurpolymj.2023.111939
+UR  - https://doi.org/10.1016/j.eurpolymj.2023.111939
+ER  - 
+
+TY  - JOUR
+TI  - Effect of controlled solvent evaporation on the electroactive phase content of P (VDF-HFP) films
+AU  - Siqi Zhang
+AU  - Qi Lian
+AU  - Xiaojia Zhao
+AU  - Guirong Peng
+AU  - Qi Wang
+PY  - 2024
+DO  - 10.1016/j.polymer.2024.126666
+UR  - https://doi.org/10.1016/j.polymer.2024.126666
+ER  - 
+
+TY  - JOUR
+TI  - Unexpected Solvent Effect Leading to Interface Segregation of Single-Chain Nanoparticles in All-Polymer Nanocomposite Films upon Solvent Evaporation
+AU  - Zhao Qian
+AU  - You-Liang Zhu
+AU  - Zhong-Yuan Lu
+AU  - Hu-Jun Qian
+PY  - 2023
+DO  - 10.1021/acs.macromol.2c02061
+UR  - https://doi.org/10.1021/acs.macromol.2c02061
+ER  - 
+
+TY  - JOUR
+TI  - Polymer crystallization and optical birefringence modulated by solvent evaporation in sessile droplets
+AU  - Tiantian Song
+AU  - Weichao Shi
+PY  - 2024
+DO  - 10.1016/j.polymer.2024.127287
+UR  - https://doi.org/10.1016/j.polymer.2024.127287
+ER  - 
+
+TY  - JOUR
+TI  - Characterization of nanoscale morphology and mechanical properties of conjugated polymer thin films dynamically exposed to a secondary solvent
+AU  - Krystal L. House
+AU  - Kent H. Christian
+AU  - Thomas J. Emge
+AU  - Haydee Pacheco
+AU  - Richard A. Haber
+AU  - Deirdre M. O'Carroll
+PY  - 2024
+DO  - 10.1016/j.polymer.2023.126625
+UR  - https://doi.org/10.1016/j.polymer.2023.126625
+ER  - 
+
+TY  - JOUR
+TI  - Macroscopic order in block copolymer gyroid films by solvent evaporation annealing
+AU  - René Iseli
+AU  - Doha Abdelrahman
+AU  - Cédric Kilchoer
+AU  - S. Narjes Abdollahi
+AU  - Thomas A. Kainz
+AU  - Rushna Quddus
+AU  - Yibei Gu
+AU  - Ulrich Wiesner
+AU  - Bodo D. Wilts
+AU  - Viola V. Vogler-Neuling
+AU  - Ullrich Steiner
+AU  - Ilja Gunkel
+PY  - 2025
+DO  - 10.1016/j.polymer.2025.128676
+UR  - https://doi.org/10.1016/j.polymer.2025.128676
+ER  - 
+
+TY  - JOUR
+TI  - High-Performance Asymmetric Porous Anion Exchange Membrane with Controllable Morphology via Solvent Evaporation and Water Etching
+AU  - Ying Zhu
+AU  - Xuan Yang
+AU  - Jing Zhang
+AU  - Yingying Xu
+AU  - Jingyi Wang
+AU  - Feixiang Gong
+AU  - Lei Wang
+PY  - 2024
+DO  - 10.1021/acsapm.4c00354
+UR  - https://doi.org/10.1021/acsapm.4c00354
+ER  - 
+
+TY  - JOUR
+TI  - Coarse-grained molecular dynamics simulation study for topological constraint effect on lamellar spacing in ABA tri-block copolymers
+AU  - Katsumi Hagita
+AU  - Takahiro Murashima
+PY  - 2026
+DO  - 10.1016/j.polymer.2026.130143
+UR  - https://doi.org/10.1016/j.polymer.2026.130143
+ER  - 
+
+TY  - JOUR
+TI  - Origins of the Mullins effect in elastomer nanocomposites: A coarse-grained molecular dynamics simulation study
+AU  - Zhihao Ma
+AU  - Xue Li
+AU  - Yuejie Qin
+AU  - Jianxiang Shen
+PY  - 2026
+DO  - 10.1016/j.polymer.2026.130026
+UR  - https://doi.org/10.1016/j.polymer.2026.130026
+ER  - 
+
+TY  - JOUR
+TI  - Investigation of dynamic impact responses of layered polymer-graphene nanocomposite films using coarse-grained molecular dynamics simulations
+AU  - Zhangke Yang
+AU  - Cho-Chun Chiang
+AU  - Zhaoxu Meng
+PY  - 2023
+DO  - 10.1016/j.carbon.2022.11.015
+UR  - https://doi.org/10.1016/j.carbon.2022.11.015
+ER  - 
+
+TY  - JOUR
+TI  - Topological constraint of ring fillers on the lamellar forming ABA-type tri-block copolymers using coarse-grained molecular dynamics simulations
+AU  - Katsumi Hagita
+AU  - Takahiro Murashima
+PY  - 2025
+DO  - 10.1016/j.polymer.2025.128334
+UR  - https://doi.org/10.1016/j.polymer.2025.128334
+ER  - 
+
+TY  - JOUR
+TI  - Coarse-grained molecular dynamics model of AB diblock copolymers composed of blocks with different Lennard-Jones parameters forming lamellar structures
+AU  - Katsumi Hagita
+AU  - Takahiro Murashima
+PY  - 2024
+DO  - 10.1016/j.polymer.2024.127132
+UR  - https://doi.org/10.1016/j.polymer.2024.127132
+ER  - 
+
+TY  - JOUR
+TI  - Manipulating the Interfacial Mechanical Properties of Polymer-Grafted Graphene Reinforced Polymer Nanocomposites via Coarse-Grained Molecular Dynamics Simulation
+AU  - Jianzheng Cui
+AU  - Fanlin Zeng
+AU  - Dahai Wei
+AU  - Youshan Wang
+PY  - 2025
+DO  - 10.1021/acs.jpcb.4c07630
+UR  - https://doi.org/10.1021/acs.jpcb.4c07630
+ER  - 
+
+TY  - JOUR
+TI  - Molecular-Scale Wear Process of Swollen Polymer Brushes at the Sliding Interface: Coarse-Grained Molecular Dynamics Simulation with Explicit Solvent
+AU  - Yusuke Ootani
+AU  - Arisa Chiba
+AU  - Yukihi Hara
+AU  - Shuichi Uehara
+AU  - Shogo Fukushima
+AU  - Nobuki Ozawa
+AU  - Momoji Kubo
+PY  - 2026
+DO  - 10.1021/acs.macromol.5c03314
+UR  - https://doi.org/10.1021/acs.macromol.5c03314
+ER  - 
+
+TY  - JOUR
+TI  - Molecular-level investigations in Polyetherimide during uniaxial tensile tests: A coarse-grained molecular dynamics study
+AU  - Zong-Yun Tsai
+AU  - Wei-Che Chang
+AU  - Hui-Yu Yu
+AU  - Chin-Wen Chen
+AU  - Chuin-Shan Chen
+PY  - 2026
+DO  - 10.1016/j.polymer.2025.129386
+UR  - https://doi.org/10.1016/j.polymer.2025.129386
+ER  - 
+
+TY  - JOUR
+TI  - Coarse-grained molecular dynamics simulation of oxidative aging of polymers -effect of free radical diffusivity -
+AU  - Takato Ishida
+AU  - Yuya Doi
+AU  - Takashi Uneyama
+AU  - Yuichi Masubuchi
+PY  - 2024
+DO  - 10.1038/s41428-024-00942-5
+UR  - https://doi.org/10.1038/s41428-024-00942-5
+ER  - 
+
+TY  - JOUR
+TI  - Biodegradation behavior of poly (glycolic acid) (PGA) and poly (butylene adipate-co-terephthalate) (PBAT) blend films in simulation marine environment
+AU  - Ye Fu
+AU  - Liang Zhu
+AU  - Bo Liu
+AU  - Xi Zhang
+AU  - Yunxuan Weng
+PY  - 2024
+DO  - 10.1016/j.polymer.2024.127295
+UR  - https://doi.org/10.1016/j.polymer.2024.127295
+ER  - 
+
+TY  - JOUR
+TI  - Rapid training of neural networks as accelerated, differentiable surrogates of kinetic Monte Carlo polymerization models
+AU  - Nicholas Ballard
+PY  - 2025
+DO  - 10.1016/j.polymer.2025.129128
+UR  - https://doi.org/10.1016/j.polymer.2025.129128
+ER  - 
+
+TY  - JOUR
+TI  - A Monte Carlo study on molecular synergy facilitating crystallization in bimodal long alkane mixtures
+AU  - Patcharaporn Teeranonmongkol
+AU  - Visit Vao-soongnern
+PY  - 2026
+DO  - 10.1016/j.polymer.2026.130134
+UR  - https://doi.org/10.1016/j.polymer.2026.130134
+ER  - 
+
+TY  - JOUR
+TI  - Barrier, thermal, and mechanical properties of polyglycolic acid/polyethylene terephthalate (PET) and liquid crystalline polymer/PET blend films
+AU  - Rishabh Tiwari
+AU  - Mohamed A. Abdelwahab
+AU  - Muhammad Rabnawaz
+PY  - 2025
+DO  - 10.1016/j.polymer.2025.128761
+UR  - https://doi.org/10.1016/j.polymer.2025.128761
+ER  - 
+
+TY  - JOUR
+TI  - AFM-IR Spectromicroscopy Unveils Hidden Phase Separation in Polymer–Polymer Blend Films for Photovoltaic Applications
+AU  - Ishita Jalan
+AU  - Leif K. E. Ericsson
+AU  - Ellen Moons
+AU  - Jan van Stam
+PY  - 2024
+DO  - 10.1021/acsapm.4c01883
+UR  - https://doi.org/10.1021/acsapm.4c01883
+ER  - 
+
+TY  - JOUR
+TI  - Dynamics of Polymer Films on Polymer-Grafted Substrates: A Molecular Dynamics Simulation
+AU  - Jie Yang
+AU  - Zhunpeng Wang
+AU  - Jianhua Huang
+PY  - 2024
+DO  - 10.1021/acs.langmuir.4c03168
+UR  - https://doi.org/10.1021/acs.langmuir.4c03168
+ER  - 
+
+TY  - JOUR
+TI  - Two glass transitions in substrate-supported polymer ultrathin films: A molecular dynamics simulation
+AU  - Jin Zhang
+AU  - Hongzhu Ji
+AU  - Jie Yang
+AU  - Jianhua Huang
+PY  - 2024
+DO  - 10.1016/j.polymer.2024.127410
+UR  - https://doi.org/10.1016/j.polymer.2024.127410
+ER  - 
+
+TY  - JOUR
+TI  - Mass and charge transport in polyethylene – Structure, morphology and properties
+AU  - U.W. Gedde
+AU  - M. Unge
+AU  - F. Nilsson
+AU  - M.S. Hedenqvist
+PY  - 2023
+DO  - 10.1016/j.polymer.2022.125617
+UR  - https://doi.org/10.1016/j.polymer.2022.125617
+ER  - 
+
+TY  - GEN
+TI  - Analyzing Redox-Active Polymer Films in Organic Radical Batteries Through Electron Paramagnetic Resonance-Enabled Modifiable Electrochemical Cell Design
+AU  - Zhang Min Min
+PY  - 2026
+DO  - 10.2139/ssrn.6626949
+UR  - https://doi.org/10.2139/ssrn.6626949
+AB  - This paper describes the design and construction of a flexible, inexpensive electrochemical cell for in situ X-band (9–10 GHz) EPR scanning. The main purpose of this study is to look at the electrochemical properties of redox-active polymer films in polar organic electrolytes at ambient temperature. One way to observe charge-transfer processes in conductive polymer materials is to directly apply a layer of the material over a platinum wire working electrode. across a range of experimental conditions and improves electrochemical performance while reducing ohmic losses. Here, we demonstrate how well poly[N, N-bis(3-(4-oxy(2,2,6,6-tetramethylpiperidin-1-oxyl) butoxy)salicylidene) ethylenediimide nickel(II)] works. This means it might be a good cathode material for organic radical batteries. Continuous-wave EPR investigations may reveal the charge state of a material and how it behaves when it is oxidized and reduced, among other electrochemical properties. The cell can be 3D-printed and is inexpensive, making it a potential instrument for advanced electrochemical characterisation. This might help research organizations that don&apos;t have much money obtain access to these technologies. This is significant for policy reasons. Because it can work with diverse electrode materials and testing methods, it may be used more in schools, renewable energy technologies, and battery research.
+ER  - 
+
+TY  - JOUR
+TI  - Inkjet printing of composite hole transport layers and bulk heterojunction structure for organic solar cells
+AU  - Chin-Tai Chen
+AU  - Hao-Hong Yang
+PY  - 2022
+DO  - 10.1016/j.tsf.2022.139217
+UR  - https://doi.org/10.1016/j.tsf.2022.139217
+ER  - 
+
+TY  - JOUR
+TI  - Layer-by-Layer Growth Control of Metal–Organic Framework Thin Films Assembled on Polymer Films
+AU  - Hiroaki Ohara
+AU  - Shunsuke Yamamoto
+AU  - Daiki Kuzuhara
+AU  - Tomoyuki Koganezawa
+AU  - Hidetoshi Oikawa
+AU  - Masaya Mitsuishi
+PY  - 2020
+DO  - 10.1021/acsami.0c13016
+UR  - https://doi.org/10.1021/acsami.0c13016
+ER  - 
+
+TY  - JOUR
+TI  - Incorporation of a classical visible non-fullerene acceptor into host binary blend enable ternary high-performance semitransparent polymer solar cells
+AU  - Xiangkun Wang
+AU  - Xiaohua Zhai
+AU  - Xin Jing
+AU  - Caiyun Gao
+AU  - Yan He
+AU  - Liangmin Yu
+AU  - Mingliang Sun
+PY  - 2022
+DO  - 10.1016/j.cej.2021.132048
+UR  - https://doi.org/10.1016/j.cej.2021.132048
+ER  - 
+
+TY  - JOUR
+TI  - Designing benzothiadiazole based highly efficient non-fullerene acceptor molecules for organic solar cells
+AU  - Qaba Qusain Afzal
+AU  - Kinza Jaffar
+AU  - Muhammad Ans
+AU  - Javeria Rafique
+AU  - Javed Iqbal
+AU  - Rao Aqil Shehzad
+AU  - Muhammad Shabir Mahr
+PY  - 2022
+DO  - 10.1016/j.polymer.2021.124405
+UR  - https://doi.org/10.1016/j.polymer.2021.124405
+ER  - 
+
+TY  - JOUR
+TI  - Unprecedented Efficiency Increase in a Ternary Polymer Solar Cell Exhibiting Polymer-Mediated Polymorphism of a Non-Fullerene Acceptor
+AU  - Qingpei Wan
+AU  - Liwei Ye
+AU  - Barry C. Thompson
+PY  - 2022
+DO  - 10.1021/acsmaterialslett.2c00823
+UR  - https://doi.org/10.1021/acsmaterialslett.2c00823
+ER  - 
+
+TY  - JOUR
+TI  - WITHDRAWN: Study of charge transfer in D-A conjugated donor and non-fullerene small molecule acceptor for the application of non-fullerene polymer organic solar cell
+AU  - Hemraj Dahiya
+AU  - Manish Kumar Singh
+AU  - Ganesh D. Sharma
+PY  - 2021
+DO  - 10.1016/j.matpr.2021.05.503
+UR  - https://doi.org/10.1016/j.matpr.2021.05.503
+ER  - 
+
+TY  - JOUR
+TI  - Study of charge transfer in D-A conjugated donor and non-fullerene small molecule acceptor for the application of non-fullerene polymer organic solar cell
+AU  - Hemraj Dahiya
+AU  - Manish Kumar Singh
+AU  - Ganesh D. Sharma
+PY  - 2022
+DO  - 10.1016/j.matpr.2022.02.114
+UR  - https://doi.org/10.1016/j.matpr.2022.02.114
+ER  - 
+
+TY  - JOUR
+TI  - Reduced miscibility between highly compatible non-fullerene acceptor and donor enables efficient ternary organic solar cells
+AU  - Shili Cheng
+AU  - Liang Wang
+AU  - Chuanhang Guo
+AU  - Donghui Li
+AU  - Jinlong Cai
+AU  - Weiqiang Miao
+AU  - Baocai Du
+AU  - Pang Wang
+AU  - Dan Liu
+AU  - Tao Wang
+PY  - 2021
+DO  - 10.1016/j.polymer.2021.124322
+UR  - https://doi.org/10.1016/j.polymer.2021.124322
+ER  - 
+
+TY  - JOUR
+TI  - Structure and Dynamics of Star Polymer Films from Coarse-Grained Molecular Simulations
+AU  - Wengang Zhang
+AU  - Jack F. Douglas
+AU  - Alexandros Chremos
+AU  - Francis W. Starr
+PY  - 2021
+DO  - 10.1021/acs.macromol.1c00504
+UR  - https://doi.org/10.1021/acs.macromol.1c00504
+ER  - 
+
+TY  - JOUR
+TI  - Polymer brushes in pores by ATRP: Monte Carlo simulations
+AU  - Piotr Polanowski
+AU  - Jeremiasz K. Jeszka
+AU  - Krzysztof Matyjaszewski
+PY  - 2020
+DO  - 10.1016/j.polymer.2020.123124
+UR  - https://doi.org/10.1016/j.polymer.2020.123124
+ER  - 
+
+TY  - JOUR
+TI  - A three-dimensional multi-chromophore naphthalene diimide acceptor for polymer bulk heterojunction solar cells
+AU  - Hui Jin
+AU  - Dani M. Stoltzfus
+AU  - Jaber Saghaei
+AU  - Paul L. Burn
+AU  - Paul E. Shaw
+PY  - 2020
+DO  - 10.1016/j.synthmet.2020.116505
+UR  - https://doi.org/10.1016/j.synthmet.2020.116505
+ER  - 
+
+TY  - JOUR
+TI  - Three-dimensional periodic architecture in Poly(ε-caprolactone) crystallized in bulk aggregates
+AU  - Selvaraj Nagarajan
+AU  - Eamor M. Woo
+PY  - 2020
+DO  - 10.1016/j.polymer.2020.123059
+UR  - https://doi.org/10.1016/j.polymer.2020.123059
+ER  - 
+
+TY  - JOUR
+TI  - Inverted Bulk Heterojunction (BHJ) Polymer (PCDTBT-PC70BM) Solar Photovoltaic Technology
+AU  - Yogesh Kumar Dongre
+AU  - Sanjay Tiwari
+PY  - 2022
+DO  - 10.52228/jrub.2022-35-1-3
+UR  - https://doi.org/10.52228/jrub.2022-35-1-3
+AB  - Inverted Bulk heterojunctions (Ag/MoO3/PCDTBT-PC70BM/ZnO/ITO) Organic Solar cells, based on Organic (Polymer) materials is fabricated and characterized in this work. PCDTBT-PC70BM was synthesized by chloroform, chlorobenzene and o-dichlorobenzene (organic solvent). Surface morphology of ZnO and PCDTBT-PC70BM were studied. Bulk heterojunctions of active material are formed by the mixture of PCDTBT donor and PC70BM an acceptor in a random manner. For Sufficient transportation of charge carrier (electron and hole), hole transport (HT) and electron transport (ET) layers was deposited. ZnO is used as an ETM and synthesized by using Sol-Gel technique. MoO3 thin film deposited over the active material, enhances hole transformation because of band gap tuning with Ag and active materials. Absorbance and Photoluminescence spectra of polymer material with different organic solvents were studied and results were discussed in this work. o-dichlorobenzene enhance the absorption of PCDTBT/PC70BM. At 400 nm, 90% of sun light is absorbed, and 70% absorption is figure out in 500- 550nm wavelength. The Photo-luminescence of PCDTBT/PC70BM thin film in different organic solvents is ranging from 650nm to 750nm. At 700nm, 20% is shown for chloroform, 40% for chlorobenzene and highest 80% is achieved by o-dichlorobenzene. J-V value is obtained from a solar simulator which irradiates the sun spectrum 1.5 AM, for all the devices having cell area 0.045 cm2. For concentration (1:1) ratio in different organic solvents like chloroform, chlorobenzene and o-dichlorobenzene, (3.5, 4.2, and 5.8) %, PCE were obtained respectively.
+ER  - 
+
+TY  - JOUR
+TI  - The capacitance characteristics of polybenzidine-based donor–acceptor conductive conjugated polymer electrodes enhanced by structural modification and carbon cloth loading
+AU  - Tingting He
+AU  - Shanshan He
+AU  - Arzugul Muslim
+PY  - 2023
+DO  - 10.1016/j.eurpolymj.2023.111994
+UR  - https://doi.org/10.1016/j.eurpolymj.2023.111994
+ER  - 
+
+TY  - JOUR
+TI  - Epoxy composite films of superior dielectric properties promoted by active ester hardeners for applications in electronic packaging
+AU  - Feng Zhang
+AU  - Peng Li
+AU  - Lin Wang
+AU  - Shuhui Yu
+AU  - Rong Sun
+AU  - Keyu Zheng
+AU  - Suibin Luo
+PY  - 2024
+DO  - 10.1016/j.eurpolymj.2024.113404
+UR  - https://doi.org/10.1016/j.eurpolymj.2024.113404
+ER  - 
+
+TY  - JOUR
+TI  - Balancing flame retardancy and high toughness in solvent-free reactive polyurethane films via P/Si synergistic strategy
+AU  - Jinbiao Zhao
+AU  - Huimin Duan
+AU  - Xinxin Xu
+AU  - Shangchao Ji
+AU  - Hao Yang
+AU  - Zhichao Huang
+AU  - Qi Zhong
+AU  - Dongming Qi
+PY  - 2025
+DO  - 10.1016/j.eurpolymj.2025.113810
+UR  - https://doi.org/10.1016/j.eurpolymj.2025.113810
+ER  - 
+
+TY  - JOUR
+TI  - Fast solvent evaporation by experimental optimization using central composite design for one-step fabrication of superhydrophobic polypropylene surface
+AU  - Keivan Habibi
+AU  - Nadereh Golshan Ebrahimi
+AU  - Emad Jafari Nodoushan
+PY  - 2023
+DO  - 10.1007/s13726-022-01108-x
+UR  - https://doi.org/10.1007/s13726-022-01108-x
+ER  - 
+
+TY  - JOUR
+TI  - Effects of Bulk Heterojunction Morphology Control via Thermal Annealing on the Fill Factor of Anthracene-based Polymer Solar Cells
+AU  - Hyojung Cha
+AU  - Jiaqiang Li
+AU  - Yifan Li
+AU  - Seul-Ong Kim
+AU  - Yun-Hi Kim
+AU  - Soon-Ki Kwon
+PY  - 2020
+DO  - 10.1007/s13233-020-8107-z
+UR  - https://doi.org/10.1007/s13233-020-8107-z
+ER  - 
+
+TY  - JOUR
+TI  - A new donor-acceptor conjugated polymer-gold nanoparticles biocomposite materials for enzymatic determination of glucose
+AU  - Burcu Tan
+AU  - Fatma Baycan
+PY  - 2020
+DO  - 10.1016/j.polymer.2020.123066
+UR  - https://doi.org/10.1016/j.polymer.2020.123066
+ER  - 
+
+TY  - JOUR
+TI  - Tuning phase separation morphology in blend thin films using well-defined linear (multi)block copolymers
+AU  - Hong Zhang
+AU  - Glenn K.K. Clothier
+AU  - Thiago R. Guimarães
+AU  - Rio Kita‬
+AU  - Per B. Zetterlund
+AU  - Yosuke Okamura
+PY  - 2022
+DO  - 10.1016/j.polymer.2021.124466
+UR  - https://doi.org/10.1016/j.polymer.2021.124466
+ER  - 
+
+TY  - JOUR
+TI  - Impact of Sequential Fluorination of Donor and/or Acceptor Polymers on the Efficiency and Morphology of All-Polymer Solar Cells
+AU  - Kakaraparthi Kranthiraja
+AU  - Akinori Saeki
+PY  - 2021
+DO  - 10.1021/acsapm.1c00288
+UR  - https://doi.org/10.1021/acsapm.1c00288
+ER  - 
+
+TY  - JOUR
+TI  - Multiscale simulations of coupled composition-stress-morphology of binary polymer blend
+AU  - Ling-Hua Huang
+AU  - Ching-Hung Wu
+AU  - Chi-Chung Hua
+AU  - Tien-Jung Huang
+PY  - 2020
+DO  - 10.1016/j.polymer.2020.122366
+UR  - https://doi.org/10.1016/j.polymer.2020.122366
+ER  - 
+
+TY  - JOUR
+TI  - Comparison of the mechanical properties of polymer blend and main-chain conjugated copolymer films with donor–acceptor heterojunctions
+AU  - Young Un Kim
+AU  - Boo Soo Ma
+AU  - Youngno Kim
+AU  - Su Hong Park
+AU  - Hungu Kang
+AU  - Hyo Jae Yoon
+AU  - Min Ju Cho
+AU  - Taek-Soo Kim
+AU  - Jung Hyun Kim
+AU  - Dong Hoon Choi
+PY  - 2021
+DO  - 10.1016/j.cej.2021.128952
+UR  - https://doi.org/10.1016/j.cej.2021.128952
+ER  - 
+
+TY  - JOUR
+TI  - Effect of colloid aggregation characteristic on ZnO interface layer and photovoltaic performance of polymer solar cells
+AU  - Chang Zhou
+AU  - Rong Hu
+AU  - Yurong Liu
+AU  - Ming-Ming Huo
+AU  - Lu Li
+AU  - Junsheng Yu
+PY  - 2020
+DO  - 10.1016/j.orgel.2020.105753
+UR  - https://doi.org/10.1016/j.orgel.2020.105753
+ER  - 
+
+TY  - JOUR
+TI  - Mussel-inspired UV protective organic coatings via layer-by-layer assembly
+AU  - Arshdeep Kaur Gill
+AU  - Sk. Riyajuddin
+AU  - Mujeeb Alam
+AU  - Kaushik Ghosh
+AU  - Debabrata Patra
+PY  - 2020
+DO  - 10.1016/j.eurpolymj.2019.109455
+UR  - https://doi.org/10.1016/j.eurpolymj.2019.109455
+ER  - 
+
+TY  - JOUR
+TI  - Mussel-inspired layer-by-layer assembled polymeric films with fast growing and NIR light triggered healing capabilities
+AU  - Xu Wang
+AU  - Rui Wang
+AU  - Fapu Wu
+AU  - Huijuan Yue
+AU  - Zhifeng Cui
+AU  - Xianfeng Zhou
+AU  - Yingxi Lu
+PY  - 2021
+DO  - 10.1016/j.eurpolymj.2021.110689
+UR  - https://doi.org/10.1016/j.eurpolymj.2021.110689
+ER  - 
+
+TY  - JOUR
+TI  - Photo-active chitosan-based hybrid films
+AU  - Raquel Fernández
+AU  - Sebastian Bonardd
+AU  - Itxaso Algar
+AU  - Irati Barandiaran
+AU  - Galder Kortaberria
+AU  - Junkal Gutierrez
+AU  - Agnieszka Tercjak
+PY  - 2020
+DO  - 10.1016/j.eurpolymj.2019.109373
+UR  - https://doi.org/10.1016/j.eurpolymj.2019.109373
+ER  - 
+
+TY  - JOUR
+TI  - Fast uptake of organic pollutants from dilute aqueous solutions by nanoporous-crystalline PPO films with c-perpendicular orientation
+AU  - Antonietta Cozzolino
+AU  - Baku Nagendra
+AU  - Paola Rizzo
+AU  - Christophe Daniel
+AU  - Gaetano Guerra
+PY  - 2022
+DO  - 10.1016/j.eurpolymj.2021.110976
+UR  - https://doi.org/10.1016/j.eurpolymj.2021.110976
+ER  - 
+
+TY  - JOUR
+TI  - Fast uptake of organic pollutants from dilute aqueous solutions by nanoporous-crystalline PPO films with c-perpendicular orientation
+AU  - Antonietta Cozzolino
+AU  - Baku Nagendra
+AU  - Paola Rizzo
+AU  - Christophe Daniel
+AU  - Gaetano Guerra
+PY  - 2021
+DO  - 10.1016/j.eurpolymj.2021.110864
+UR  - https://doi.org/10.1016/j.eurpolymj.2021.110864
+ER  - 
+
+TY  - JOUR
+TI  - Effect of polymer functionalized fullerene soot on C6 glial cells
+AU  - S.S. Athira
+AU  - T.E. Biby
+AU  - P.V. Mohanan
+PY  - 2020
+DO  - 10.1016/j.eurpolymj.2020.109572
+UR  - https://doi.org/10.1016/j.eurpolymj.2020.109572
+ER  - 
+
+TY  - JOUR
+TI  - Influence of Ionomer Loading and Substrate Wettability on the Morphology of Ionomer Thin Films Using Coarse-Grained Solvent Evaporation Simulations
+AU  - Takuya Mabuchi
+AU  - Sheng-Feng Huang
+AU  - Takashi Tokumasu
+PY  - 2021
+DO  - 10.1021/acs.macromol.0c01303
+UR  - https://doi.org/10.1021/acs.macromol.0c01303
+ER  - 
+
+TY  - JOUR
+TI  - Electrospinning of polymer solutions: An analysis of instability in a thinning jet with solvent evaporation
+AU  - Dharmansh Deshawar
+AU  - Karan Gupta
+AU  - Paresh Chokshi
+PY  - 2020
+DO  - 10.1016/j.polymer.2020.122656
+UR  - https://doi.org/10.1016/j.polymer.2020.122656
+ER  - 
+
+TY  - JOUR
+TI  - Evolution and Morphology of Thin Films Formed by Solvent Evaporation: An Organic Semiconductor Case Study
+AU  - Thomas Lee
+AU  - Audrey V. Sanzogni
+AU  - Paul L. Burn
+AU  - Alan E. Mark
+PY  - 2020
+DO  - 10.1021/acsami.0c08454
+UR  - https://doi.org/10.1021/acsami.0c08454
+ER  - 
+
+TY  - JOUR
+TI  - Microfluidic fabrication of polymer blend particles containing poly(4-butyltriphenylamine)-block-poly(methyl methacrylate): effect of block copolymer and rate of solvent evaporation on morphology
+AU  - Ryoka Shoji
+AU  - Saki Yoshida
+AU  - Shu Kikuchi
+AU  - Shinji Kanehashi
+AU  - Kazuo Okamoto
+AU  - Guanghui Ma
+AU  - Kenji Ogino
+PY  - 2021
+DO  - 10.1007/s00396-021-04817-6
+UR  - https://doi.org/10.1007/s00396-021-04817-6
+ER  - 
+
+TY  - JOUR
+TI  - Organic-solvent-dispersible paramylon nanofibers: Hygroscopicity and extended dye release from its cast films
+AU  - Motonari Shibakami
+PY  - 2021
+DO  - 10.1016/j.polymer.2021.124082
+UR  - https://doi.org/10.1016/j.polymer.2021.124082
+ER  - 
+
+TY  - JOUR
+TI  - Residual solvent induced physical morphology and gas permeation in polyamide-imide membrane: Experimental investigation and molecular simulations
+AU  - N. Shiva Prasad
+AU  - Ravichandar Babarao
+AU  - Srinivasan Madapusi
+AU  - Sundergopal Sridhar
+AU  - Namita Roy Choudhury
+AU  - Suresh K. Bhargava
+PY  - 2022
+DO  - 10.1016/j.eurpolymj.2022.111012
+UR  - https://doi.org/10.1016/j.eurpolymj.2022.111012
+ER  - 
+
+TY  - JOUR
+TI  - Polymer Crystallization Research in Europe
+AU  - Dario Cavallo
+AU  - Dimitri Ivanov
+AU  - Bart Goderis
+PY  - 2020
+DO  - 10.1002/pcr2.10166
+UR  - https://doi.org/10.1002/pcr2.10166
+ER  - 
+
+TY  - JOUR
+TI  - Polymer additive assisted crystallization of perovskite films for high-performance solar cells
+AU  - Yeming Mei
+AU  - Mengna Sun
+AU  - Hongli Liu
+AU  - Xianggao Li
+AU  - Shirong Wang
+PY  - 2021
+DO  - 10.1016/j.orgel.2021.106258
+UR  - https://doi.org/10.1016/j.orgel.2021.106258
+ER  - 
+
+TY  - JOUR
+TI  - Diffusion of nitrogen gas through polyethylene based films
+AU  - Annamaria Visco
+AU  - Cristina Scolaro
+AU  - Alfio Torrisi
+AU  - Lorenzo Torrisi
+PY  - 2021
+DO  - 10.1002/pcr2.10207
+UR  - https://doi.org/10.1002/pcr2.10207
+ER  - 
+
+TY  - JOUR
+TI  - Solubility considerations in relative block crystallization and morphology of PEO‐ b ‐PCL films
+AU  - Cole W. Tower
+AU  - Kristi Allen
+AU  - Allison Carandang
+AU  - Ryan M. Van Horn
+PY  - 2020
+DO  - 10.1002/pcr2.10107
+UR  - https://doi.org/10.1002/pcr2.10107
+ER  - 
+
+TY  - JOUR
+TI  - The effect of molecular weight and deposition temperature on the formation of poly(ethylene oxide) films using the femtosecond pulsed laser deposition
+AU  - Dieter Fischer
+PY  - 2020
+DO  - 10.1002/pcr2.10153
+UR  - https://doi.org/10.1002/pcr2.10153
+ER  - 
+
+TY  - JOUR
+TI  - Metal-induced crystallization of amorphous semiconductor films: Nucleation phenomena in Ag-Ge films
+AU  - Aleksandr Kryshtal
+AU  - Sergiy Bogatyrenko
+AU  - Paulo Ferreira
+PY  - 2022
+DO  - 10.1016/j.apsusc.2022.154873
+UR  - https://doi.org/10.1016/j.apsusc.2022.154873
+ER  - 
+
+TY  - JOUR
+TI  - Confined crystallization and polymorphism in iPP thin films
+AU  - Federico Di Sacco
+AU  - Leon de Jong
+AU  - Théophile Pelras
+AU  - Giuseppe Portale
+PY  - 2022
+DO  - 10.1016/j.polymer.2022.125126
+UR  - https://doi.org/10.1016/j.polymer.2022.125126
+ER  - 
+
+TY  - JOUR
+TI  - Thermal stability and crystallization speed of Cu-doped Ge8Sb2Te11 thin films
+AU  - Yeong-Mi Kim
+AU  - Heon Kong
+AU  - Hyun-Yong Lee
+PY  - 2020
+DO  - 10.1016/j.mssp.2020.105148
+UR  - https://doi.org/10.1016/j.mssp.2020.105148
+ER  - 
+
+TY  - JOUR
+TI  - Robust organic semiconductor thermoset composite films based on Crystallization-Driven Self-Assembled nanofibers of Poly(3-hexylthiophene) block copolymers
+AU  - Haoruo Zhang
+AU  - Zhengguang Heng
+AU  - Ji Zhou
+AU  - Lu Shen
+AU  - Yang Chen
+AU  - Huawei Zou
+AU  - Mei Liang
+PY  - 2022
+DO  - 10.1016/j.cej.2021.132695
+UR  - https://doi.org/10.1016/j.cej.2021.132695
+ER  - 
+
+TY  - JOUR
+TI  - Coarse-grained simulation of molecular ordering in polylactic blends under uniaxial strain
+AU  - Mikhail K. Glagolev
+AU  - Valentina V. Vasilevskaya
+PY  - 2020
+DO  - 10.1016/j.polymer.2020.122232
+UR  - https://doi.org/10.1016/j.polymer.2020.122232
+ER  - 
+
+TY  - JOUR
+TI  - Coarse-grained molecular dynamics simulation to reproduce phase-separated structures in graft-type polymer electrolyte membranes
+AU  - Shun Okushima
+AU  - Shin Hasegawa
+AU  - Toshihiro Kawakatsu
+AU  - Yasunari Maekawa
+PY  - 2021
+DO  - 10.1016/j.polymer.2021.124036
+UR  - https://doi.org/10.1016/j.polymer.2021.124036
+ER  - 
+
+TY  - JOUR
+TI  - Multi-scale coarse-grained molecular dynamics simulation to investigate the thermo-mechanical behavior of shape-memory polyurethane copolymers
+AU  - Sungwoo Park
+AU  - Junghwan Moon
+AU  - Byungjo Kim
+AU  - Maenghyo Cho
+PY  - 2021
+DO  - 10.1016/j.polymer.2020.123228
+UR  - https://doi.org/10.1016/j.polymer.2020.123228
+ER  - 
+
+TY  - JOUR
+TI  - Coarse-grained molecular dynamics study of elasticity of block copolymers with cubic symmetrical morphology
+AU  - Takeshi Aoyagi
+PY  - 2022
+DO  - 10.1016/j.polymer.2022.124624
+UR  - https://doi.org/10.1016/j.polymer.2022.124624
+ER  - 
+
+TY  - JOUR
+TI  - Viscosity Overshoot in Biaxial Elongational Flow: Coarse-Grained Molecular Dynamics Simulation of Ring–Linear Polymer Mixtures
+AU  - Takahiro Murashima
+AU  - Katsumi Hagita
+AU  - Toshihiro Kawakatsu
+PY  - 2021
+DO  - 10.1021/acs.macromol.1c00267
+UR  - https://doi.org/10.1021/acs.macromol.1c00267
+ER  - 
+
+TY  - JOUR
+TI  - Analysis of nanocellular foaming with nucleating agents based on coarse-grained molecular dynamics simulations
+AU  - Hiroshi Morita
+AU  - Satoshi Yoda
+AU  - Takumi Ono
+AU  - Kouhei Tazumi
+AU  - Takeshi Furuya
+PY  - 2022
+DO  - 10.1016/j.polymer.2022.125059
+UR  - https://doi.org/10.1016/j.polymer.2022.125059
+ER  - 
+
+TY  - JOUR
+TI  - Coarse-Grained Molecular Dynamics Simulation of Perfluorosulfonic Acid Polymer in Water–Ethanol Mixtures
+AU  - An-Tsung Kuo
+AU  - Shingo Urata
+AU  - Kazuhiro Nakabayashi
+AU  - Hiroyuki Watabe
+AU  - Satoru Honmura
+PY  - 2021
+DO  - 10.1021/acs.macromol.0c02364
+UR  - https://doi.org/10.1021/acs.macromol.0c02364
+ER  - 
+
+TY  - JOUR
+TI  - Using coarse-grained models to examine structure-property relationships of diblock-arm star polymers
+AU  - Kevin R. Hinkle
+PY  - 2021
+DO  - 10.1016/j.eurpolymj.2020.110149
+UR  - https://doi.org/10.1016/j.eurpolymj.2020.110149
+ER  - 
+
+TY  - JOUR
+TI  - Kinetic Monte Carlo simulation of heterogeneous and homogeneous radio-oxidation of a polymer
+AU  - B. Gervais
+AU  - Y. Ngono
+AU  - E. Balanzat
+PY  - 2021
+DO  - 10.1016/j.polymdegradstab.2021.109493
+UR  - https://doi.org/10.1016/j.polymdegradstab.2021.109493
+ER  - 
+
+TY  - JOUR
+TI  - Monte–Carlo simulation of crystallization in single‐chain square‐well homopolymers
+AU  - Thomas J. Wicks
+AU  - Jonathan A. D. Wattis
+AU  - Richard S. Graham
+PY  - 2021
+DO  - 10.1002/pcr2.10146
+UR  - https://doi.org/10.1002/pcr2.10146
+ER  - 
+
+TY  - JOUR
+TI  - Non-monotonic behavior of weak-polyelectrolytes adsorption on a cationic surface: A Monte Carlo simulation study
+AU  - Claudio F. Narambuena
+AU  - Pablo M. Blanco
+AU  - Adrian Rodriguez
+AU  - Diego E. Rodriguez
+AU  - Sergio Madurga
+AU  - José L. Garcés
+AU  - Francesc Mas
+PY  - 2021
+DO  - 10.1016/j.polymer.2020.123170
+UR  - https://doi.org/10.1016/j.polymer.2020.123170
+ER  - 
+
+TY  - JOUR
+TI  - On the effective application of star-shaped polycaprolactones with different end functionalities to improve the properties of polylactic acid blend films
+AU  - Giacomo Damonte
+AU  - Beatrice Barsanti
+AU  - Alessandro Pellis
+AU  - Georg M. Guebitz
+AU  - Orietta Monticelli
+PY  - 2022
+DO  - 10.1016/j.eurpolymj.2022.111402
+UR  - https://doi.org/10.1016/j.eurpolymj.2022.111402
+ER  - 
+
+TY  - JOUR
+TI  - Molecular Dynamics and Conductivity of a PTB7:PC71BM Photovoltaic Polymer Blend: A Dielectric Spectroscopy Study
+AU  - Mihai Asandulesa
+AU  - Sergei Kostromin
+AU  - Alexey Tameev
+AU  - Aleksey Aleksandrov
+AU  - Sergei Bronnikov
+PY  - 2021
+DO  - 10.1021/acsapm.1c00610
+UR  - https://doi.org/10.1021/acsapm.1c00610
+ER  - 
+
+TY  - JOUR
+TI  - Encapsulant polymer blend films for bifacial heterojunction photovoltaic modules: Formulation, characterization and durability
+AU  - Marilena Baiamonte
+AU  - Sandrine Therias
+AU  - Jean-Luc Gardette
+AU  - Claudio Colletti
+AU  - Nadka Tz. Dintcheva
+PY  - 2021
+DO  - 10.1016/j.polymdegradstab.2021.109716
+UR  - https://doi.org/10.1016/j.polymdegradstab.2021.109716
+ER  - 
+
+TY  - JOUR
+TI  - In-situ analysis for melt-drawing behavior of ultra-high molecular weight polyethylene / normal molecular weight polyethylene blend films
+AU  - Hidekazu Tanaka
+AU  - Saki Saijo
+AU  - Masaki Kakiage
+AU  - Takeshi Yamanobe
+AU  - Hiroki Uehara
+PY  - 2021
+DO  - 10.1016/j.polymer.2020.123213
+UR  - https://doi.org/10.1016/j.polymer.2020.123213
+ER  - 
+
+TY  - JOUR
+TI  - The Influence of the Blend Ratio, Solvent Additive, and Post-production Treatment on the Polymer Dynamics in PTB7:PCBM Blend Films
+AU  - Dominik M. Schwaiger
+AU  - Wiebke Lohstroh
+AU  - Peter Müller-Buschbaum
+PY  - 2021
+DO  - 10.1021/acs.macromol.1c00313
+UR  - https://doi.org/10.1021/acs.macromol.1c00313
+ER  - 
+
+TY  - JOUR
+TI  - Molecular dynamics simulations of ultrathin PMMA films
+AU  - Lili Zhang
+AU  - Norman A. Fleck
+PY  - 2021
+DO  - 10.1016/j.polymer.2021.123748
+UR  - https://doi.org/10.1016/j.polymer.2021.123748
+ER  - 
+
+TY  - JOUR
+TI  - 2D/1A ternary blend system enables non-fused ring electron acceptor based polymer solar cells with improved photovoltaic parameters
+AU  - Yinchu Chen
+AU  - Zhuhao Wu
+AU  - Dong Yuan
+AU  - Feilong Pan
+AU  - Rihang Qiu
+AU  - Zesheng Zhang
+AU  - Lianjie Zhang
+AU  - Junwu Chen
+PY  - 2022
+DO  - 10.1016/j.orgel.2022.106562
+UR  - https://doi.org/10.1016/j.orgel.2022.106562
+ER  - 
+
+TY  - JOUR
+TI  - Charge carrier transport in thin conjugated polymer films: influence of morphology and polymer/substrate interactions
+AU  - Ban Xuan Dong
+AU  - J. K. Wenderott
+AU  - Peter F. Green
+PY  - 2021
+DO  - 10.1007/s00396-020-04725-1
+UR  - https://doi.org/10.1007/s00396-020-04725-1
+ER  - 
+
+TY  - JOUR
+TI  - Optimizing Morphology to Trade Off Charge Transport and Mechanical Properties of Stretchable Conjugated Polymer Films
+AU  - Zicheng Ding
+AU  - Dongle Liu
+AU  - Kui Zhao
+AU  - Yanchun Han
+PY  - 2021
+DO  - 10.1021/acs.macromol.1c00268
+UR  - https://doi.org/10.1021/acs.macromol.1c00268
+ER  - 
+
+TY  - JOUR
+TI  - Impacts of secondary solvents on morphology and charge transport of conjugated polymer thin films
+AU  - Gyounglyul Jo
+AU  - Seung Hyun Cho
+AU  - Hyungwoo Kim
+AU  - Hyeonseok Yoon
+AU  - Sangil Han
+AU  - Mincheol Chang
+PY  - 2020
+DO  - 10.1016/j.orgel.2020.105688
+UR  - https://doi.org/10.1016/j.orgel.2020.105688
+ER  - 
+
+TY  - JOUR
+TI  - Thermal annealing effects on the morphology and charge transport of polymer semiconductor nanowires aligned in an insulating polymer matrix
+AU  - Ganghoon Jeong
+AU  - Solip Choi
+AU  - Mingu Jang
+AU  - Mincheol Chang
+PY  - 2021
+DO  - 10.1016/j.dyepig.2020.108962
+UR  - https://doi.org/10.1016/j.dyepig.2020.108962
+ER  - 
+
+TY  - JOUR
+TI  - High-Performance All-Polymer Solar Cells and Photodetectors Enabled by a High-Mobility n-Type Polymer and Optimized Bulk-Heterojunction Morphology
+AU  - Yanfei Zhao
+AU  - Tao Liu
+AU  - Baoqi Wu
+AU  - Song Zhang
+AU  - Nathaniel Prine
+AU  - Long Zhang
+AU  - Shuting Pang
+AU  - Bingyan Yin
+AU  - Long Ye
+AU  - Xiaodan Gu
+AU  - Gang Yu
+AU  - Chunhui Duan
+AU  - Fei Huang
+AU  - Yong Cao
+PY  - 2021
+DO  - 10.1021/acs.chemmater.1c00825
+UR  - https://doi.org/10.1021/acs.chemmater.1c00825
+ER  - 
+
+TY  - JOUR
+TI  - Monte Carlo simulation of polymer phantoms in proton therapy for eye tumor treatment
+AU  - Engin Aşlar
+AU  - Fatih Ekinci
+PY  - 2025
+DO  - 10.1140/epjp/s13360-024-05944-z
+UR  - https://doi.org/10.1140/epjp/s13360-024-05944-z
+AB  - Abstract Traditional methods for treating eye tumors, such as surgery and radiation therapy, can cause damage to surrounding healthy tissues and unwanted side effects. In recent years, proton therapy has emerged as a significant alternative for the treatment of eye tumors. Proton therapy targets cancer cells using proton particles while minimizing damage to the surrounding healthy tissues. Unlike other radiation therapy techniques, proton therapy uses the Bragg peak, which allows protons to concentrate on a specific depth within the tissue. Proton therapy can deliver a high dose of radiation to the tumor area while protecting nearby healthy tissues. Additionally, proton therapy has a more favorable side effect profile than other treatment methods. This study focuses on simulations conducted on eyes and eye phantoms to examine the effects of proton therapy on eye tissues. The simulations analyzed physical effects such as ionization, recoils, and lateral straggle of proton beams using Bragg curves, recoil analyses, and atomic-level interactions. Results indicate that as the energy levels of proton beams increase, the range and energy transfer in eye tissues also increase. These findings emphasize the potential effectiveness of proton therapy for treating eye tumors. Polymer eye phantoms can serve as reliable tools in proton therapy simulations to optimize treatment planning. This study highlights the importance of proton therapy simulations and demonstrates the successful use of various polymer materials. Future studies may also examine the effects of heavy particles in addition to different polymer materials to comprehensively evaluate the impact of proton beams in biomedical applications.
+ER  - 
+
+TY  - JOUR
+TI  - Benzo[1,2‐b:4,5‐b′]Difuran‐Based Polymer for Organic Solar Cells with 17.5% Efficiency via Halogenation‐Mediated Aggregation Control
+AU  - Xiyue Yuan
+AU  - Honggang Chen
+AU  - Seoyoung Kim
+AU  - Yuting Chen
+AU  - Yue Zhang
+AU  - Mingqun Yang
+AU  - Zhili Chen
+AU  - Changduk Yang
+AU  - Hongbin Wu
+AU  - Xiang Gao
+AU  - Zhitian Liu
+AU  - Chunhui Duan
+PY  - 2023
+DO  - 10.1002/aenm.202204394
+UR  - https://openalex.org/W4323265914
+ER  - 
+
+TY  - JOUR
+TI  - Ablation enhancement of polymer-fullerene blend films under temporally-shaped femtosecond laser processing
+AU  - Jiaxing Wang
+AU  - Jingya Sun
+AU  - Zhuangge Yang
+PY  - 2021
+DO  - 10.1117/12.2602413
+UR  - https://doi.org/10.1117/12.2602413
+ER  - 
+
+TY  - JOUR
+TI  - Parametric extraction and internal analysis of fullerene-based polymer bulk heterojunction solar cell
+AU  - Paritosh Chamola
+AU  - Poornima Mittal
+PY  - 2023
+DO  - 10.3233/mgc-220038
+UR  - https://doi.org/10.3233/mgc-220038
+AB  - This paper present device model simulation describing the current-voltage characteristics of polymer/fullerene bulk heterojunction solar cell. In the research paper an organic photovoltaic device with PPV/PCBM [poly (2-methoxy-5-{3’,7’-dimethyloctyloxy}-p-phenylene vinylene) and {6,6}- phenyl C61-butyric acid methyl ester] was simulated via Silvaco TCAD 2-D simulation tool. PCBM acts as acceptor and PPV is donor. The models used to simulate the device were Langevin for recombination, s.binding and a.singlet. Simulation of these type of devices is an vital approach to project and predict the cell performance. Under the illumination of one sun (AM 1.5) the simulated organic cell showed a short circuit current density (JSC) of 28 A/m2, open circuit voltage (VOC) of 0.84 Volt and a fill factor (FF) of 52.51%, the resulting maximum efficiency of the PPV/PCBM organic solar cell is 1.22%.
+ER  - 
+
+TY  - JOUR
+TI  - Reduced Recombination and Capacitor-like Charge Buildup in an Organic Heterojunction
+AU  - Kyra N. Schwarz
+AU  - Paul B. Geraghty
+AU  - Valerie D. Mitchell
+AU  - Saeed‐Uz‐Zaman Khan
+AU  - Oskar J. Sandberg
+AU  - Nasim Zarrabi
+AU  - Bryan Kudisch
+AU  - Jegadesan Subbiah
+AU  - Trevor A. Smith
+AU  - Barry P. Rand
+AU  - Ardalan Armin
+AU  - Gregory D. Scholes
+AU  - David J. Jones
+AU  - Kenneth P. Ghiggino
+PY  - 2020
+DO  - 10.1021/jacs.9b12526
+UR  - https://openalex.org/W3000400736
+ER  - 
+
+TY  - JOUR
+TI  - Two decades of Martini: Better beads, broader scope
+AU  - ‪Siewert J. Marrink
+AU  - Luca Monticelli
+AU  - Manuel N. Melo
+AU  - Riccardo Alessandri
+AU  - D. Peter Tieleman
+AU  - Paulo C. T. Souza
+PY  - 2022
+DO  - 10.1002/wcms.1620
+UR  - https://openalex.org/W4283464776
+ER  - 
+
+TY  - GEN
+TI  - Active Organic and Organic-Inorganic Hybrid Coatings and Thin Films
+PY  - 2020
+DO  - 10.3390/books978-3-03936-853-2
+UR  - https://doi.org/10.3390/books978-3-03936-853-2
+ER  - 
+
+TY  - GEN
+TI  - Polymer Films for Photovoltaic Applications
+PY  - 2022
+DO  - 10.3390/books978-3-0365-4675-9
+UR  - https://doi.org/10.3390/books978-3-0365-4675-9
+ER  - 
+
+TY  - JOUR
+TI  - Donor–acceptor conjugates-functionalized aluminum phthalocyanines: Photophysical and nonlinear optical properties
+AU  - Rui Xu
+AU  - Bolong Li
+AU  - Jiale Ding
+AU  - Wei Li
+AU  - Yunhe Zhang
+PY  - 2020
+DO  - 10.1016/j.eurpolymj.2020.109813
+UR  - https://doi.org/10.1016/j.eurpolymj.2020.109813
+ER  - 
+
+TY  - JOUR
+TI  - Light induced step-growth polymerization of Donor-Acceptor-Donor (DAD) type monomers based on thiophene – [1,2,5] Chalcogenazolo[3,4-f]-benzo [1,2,3] triazole – Thiophene
+AU  - Kerem Kaya
+AU  - Ecem Aydan Alkan
+AU  - Mustafa Yasa
+AU  - Ali Süerkan
+AU  - Yasemin Arslan Udum
+AU  - Levent Toppare
+AU  - Yusuf Yagci
+PY  - 2021
+DO  - 10.1016/j.eurpolymj.2021.110831
+UR  - https://doi.org/10.1016/j.eurpolymj.2021.110831
+ER  - 
+
+TY  - JOUR
+TI  - A fluorescent covalent triazine framework consisting of donor–acceptor structure for selective and sensitive sensing of Fe3+
+AU  - Dong-Yue Wang
+AU  - Wen-Jing Wang
+AU  - Ren Wang
+AU  - Sun-Chang Xi
+AU  - Bin Dong
+PY  - 2021
+DO  - 10.1016/j.eurpolymj.2021.110297
+UR  - https://doi.org/10.1016/j.eurpolymj.2021.110297
+ER  - 
+
+TY  - JOUR
+TI  - Stable polymer solar cells using conjugated polymer as solvent barrier for organic electron transport layer
+AU  - Fang-Chi Hsu
+AU  - Yu-An Lin
+AU  - Chi-Ping Li
+PY  - 2021
+DO  - 10.1016/j.orgel.2020.106008
+UR  - https://doi.org/10.1016/j.orgel.2020.106008
+ER  - 
+
+TY  - JOUR
+TI  - Study of sonication parameters on PLA nanoparticles preparation by simple emulsion-evaporation solvent technique
+AU  - Esneyder Ruiz
+AU  - Víctor H. Orozco
+AU  - Lina M. Hoyos
+AU  - Luis F. Giraldo
+PY  - 2022
+DO  - 10.1016/j.eurpolymj.2022.111307
+UR  - https://doi.org/10.1016/j.eurpolymj.2022.111307
+ER  - 
+
+TY  - JOUR
+TI  - Facile fabrication of lignin containing cellulose films using water as green solvent
+AU  - Xinyu Lu
+AU  - Han Que
+AU  - Xiaoli Gu
+PY  - 2022
+DO  - 10.1016/j.eurpolymj.2022.111097
+UR  - https://doi.org/10.1016/j.eurpolymj.2022.111097
+ER  - 
+
+TY  - JOUR
+TI  - DMSO as an auxiliary solvent in the fabrication of homogeneous chitin-based films obtaining from an ionic liquid process
+AU  - Dawid Kasprzak
+AU  - Maciej Galiński
+PY  - 2021
+DO  - 10.1016/j.eurpolymj.2021.110681
+UR  - https://doi.org/10.1016/j.eurpolymj.2021.110681
+ER  - 
+
+TY  - JOUR
+TI  - High surface area polymer films by co-crystallization with low-molecular-mass guest molecules
+AU  - Baku Nagendra
+AU  - Christophe Daniel
+AU  - Paola Rizzo
+AU  - Gaetano Guerra
+AU  - Lucia Baldino
+AU  - Ernesto Reverchon
+PY  - 2022
+DO  - 10.1016/j.eurpolymj.2022.111305
+UR  - https://doi.org/10.1016/j.eurpolymj.2022.111305
+ER  - 
+
+TY  - JOUR
+TI  - Investigation of structure-morphology-function relationship of plastomers used to produce low mold shrinkage thermoplastic olefins
+AU  - Çağla Girişken
+AU  - Senem Avaz Seven
+AU  - Osman Gökhan Ersoy
+AU  - Yusuf Ziya Menceloğlu
+PY  - 2021
+DO  - 10.1016/j.eurpolymj.2021.110758
+UR  - https://doi.org/10.1016/j.eurpolymj.2021.110758
+ER  - 
+
+TY  - GEN
+TI  - Review for "Impact of Interface Disorder on the Crystallization and Charge Transport of Conjugated Polymer Thin Films in Organic Field-Effect Transistors"
+PY  - 2025
+DO  - 10.1039/d5nr00991j/v1/review2
+UR  - https://doi.org/10.1039/d5nr00991j/v1/review2
+ER  - 
+
+TY  - GEN
+TI  - Review for "Impact of Interface Disorder on the Crystallization and Charge Transport of Conjugated Polymer Thin Films in Organic Field-Effect Transistors"
+PY  - 2025
+DO  - 10.1039/d5nr00991j/v2/review1
+UR  - https://doi.org/10.1039/d5nr00991j/v2/review1
+ER  - 
+
+TY  - GEN
+TI  - Review for "Impact of Interface Disorder on the Crystallization and Charge Transport of Conjugated Polymer Thin Films in Organic Field-Effect Transistors"
+PY  - 2025
+DO  - 10.1039/d5nr00991j/v1/review1
+UR  - https://doi.org/10.1039/d5nr00991j/v1/review1
+ER  - 
+
+TY  - GEN
+TI  - Decision letter for "Impact of Interface Disorder on the Crystallization and Charge Transport of Conjugated Polymer Thin Films in Organic Field-Effect Transistors"
+PY  - 2025
+DO  - 10.1039/d5nr00991j/v1/decision1
+UR  - https://doi.org/10.1039/d5nr00991j/v1/decision1
+ER  - 
+
+TY  - GEN
+TI  - Decision letter for "Impact of Interface Disorder on the Crystallization and Charge Transport of Conjugated Polymer Thin Films in Organic Field-Effect Transistors"
+PY  - 2025
+DO  - 10.1039/d5nr00991j/v2/decision1
+UR  - https://doi.org/10.1039/d5nr00991j/v2/decision1
+ER  - 
+
+TY  - JOUR
+TI  - Understanding the High Performance of PM6:Y6 Bulk Heterojunction Organic Solar Cells
+AU  - Thuc-Quyen Nguyen
+PY  - 2021
+DO  - 10.29363/nanoge.nfasc.2021.010
+UR  - https://doi.org/10.29363/nanoge.nfasc.2021.010
+ER  - 
+
+TY  - GEN
+TI  - Numerical Study of Plasmonic Effects of Ag Nanoparticles embedded in the Active Layer on performance polymer organic Solar Cells
+AU  - Leila Shabani
+AU  - ahmad mohammadi
+AU  - Tahmineh Jalali
+PY  - 2021
+DO  - 10.21203/rs.3.rs-551348/v1
+UR  - https://doi.org/10.21203/rs.3.rs-551348/v1
+AB  - Abstract In this paper, the light absorption the active layer of polymer polymer solar cells (OPV) by using plasmonic nanocrystals with hexagonal lattice is investigated. To study the relation between the performance of the OPV solar cell and its active layer, a three-dimensional model for its morphology is utilized. Therefore, the three-dimensional (3D) finite-difference time-domain method and Lumirical software were used to measure the field distribution and light absorption in the active layer in terms of wavelength. OPV solar cells with bilayer and bulk heterojunction structured cells were designed using hexagonal lattice crystals with plasmonic nanoparticles, as well as, core-shell geometry to govern a design to optimize light trapping in the active layer. The parameters of shape, material, periodicity, size, the thickness of the active layer as a function of wavelength in OPV solar cells have been investigated. A very thin active layer and an ultra-thin shell were used to achieve the highest increase in optical absorption. The strong alternating electromagnetic field around the core-shell plasmonic nanoparticles resulting from the localized surface plasmon resonance (LSPR) suggested by the Ag plasmonic nanocrystals increased the intrinsic optical absorption in the active layer poly(3-hexylthiophene):phenyl-C61-butyric acid methyl ester (P3HT:PCBM). Based on the photovoltaic results the short circuit current ranged from 19.7 to 26.7 mA/cm2.PACs Number: 88.40.hj, 88.40.jj, 42.70.Qs
+ER  - 
+
+TY  - JOUR
+TI  - Morphology development of PLAs with different stereo-regularities in ternary blend PBSA/PBS/PLA films
+AU  - Narumon Puekpoonpoal
+AU  - Supanut Phattarateera
+AU  - Noppadon Kerddonfag
+AU  - Duangdao Aht-Ong
+PY  - 2021
+DO  - 10.1080/25740881.2021.1930043
+UR  - https://doi.org/10.1080/25740881.2021.1930043
+ER  - 
+
+TY  - JOUR
+TI  - Poly (ether sulfone) (PES)/polystyrene (PS) Thermoplastic Polymer Blend: Molecular Dynamics (MD) Simulation Methods and Experimental to Miscibility Evaluation
+AU  - Fateme Kouhestani Fateme Kouhestani
+AU  - MohamadAli Torangi MohamadAli Torangi
+AU  - Alireza MotavalizadehkakhkyReza karazhyan and Rahele Zhiani Alireza MotavalizadehkakhkyReza karazhyan and Rahele Zhiani
+PY  - 2024
+DO  - 10.52568/001438/jcsp/46.02.2024
+UR  - https://doi.org/10.52568/001438/jcsp/46.02.2024
+AB  - In this study, poly (ether sulfone) (PES)/polystyrene (PS) thermoplastic polymer blend miscibility was looked at using both molecular dynamics (MD) simulations and experiments. In particular, the parameters of the Flory-Huggins interaction and the heat of mixing of poly (ether sulfone) (PES)/polystyrene (PS) blends at different compositions were calculated from MD simulation. For the PES/PS blend, both differential scanning calorimetry (DSC) and MD simulation showed that they are immiscible at PES/PS: 80/20,60/40 ratios. The degree of compatibility of the 20/80 and 40/60 PES/PS blends is higher than that of a PES-rich blend. This thermodynamic behavior was found to be due mainly to intermolecular interactions. Scanning electron microscopy (SEM) results confirmed this observation. Results show that the calculated and#120594; value is positive at the compositions of PES/PS: 80/20 and 60/40, which confirmed that the polymer mixtures were immiscible at these compositions. The miscibility between PES and PS at these ratios is attributed to favorable van der Waals interactions. Also, the results of the DREIDING 2.21 force field show that electrostatic energy, bond angle bending energy, and bond stretching energy may be to blame for the immiscibility of certain composition polymer blends (PES/PS: 80/20 and 60/40).
+ER  - 
+
+TY  - JOUR
+TI  - Conjugated Polymer Controlled Morphology and Charge Transport of Small-Molecule Organic Semiconductors
+AU  - Zhengran He
+AU  - Ziyang Zhang
+AU  - Sheng Bi
+AU  - Jihua Chen
+AU  - Dawen Li
+PY  - 2020
+DO  - 10.1038/s41598-020-61282-x
+UR  - https://doi.org/10.1038/s41598-020-61282-x
+AB  - Abstract In this study, we report an effective approach to tune the crystallization, microstructure and charge transport of solution-processed organic semiconductors by blending with a conjugated polymer additive poly(3-hexylthiophene) (P3HT). When 6,13-bis(triisopropylsilylethynyl) pentacene (TIPS pentacene) was used as a model semiconductor material to mix with different amount of P3HT, their intermolecular interactions led to distinctive TIPS pentacene film morphologies, including randomly-oriented crystal ribbons, elongated needles with enhanced long-range order, and grass-like curved microwires with interlinkages. Each type of morphology was found to further correlate to considerably different charge transport and device performance. As compared to pristine TIPS pentacene devices, bottom-gate, top-contact OTFTs with 2% in weight P3HT additive showed a 2-fold and 5-fold improvement of average field-effect mobility and performance consistency (defined as the ratio of average mobility to the standard deviation), respectively. The improvement in transistor electrical performance can be attributed to the combined effect of enhanced crystal orientation and uniformity, as well as increased areal coverage. This work can be applied beyond the particular example demonstrated in this study and to tune the charge transport of other small-molecule organic semiconductors in general.
+ER  - 
+
+TY  - GEN
+TI  - Selective-Wavelength Detection Via Photoswitching Effect of Fe2o3 Layer for Organic Photodiode
+AU  - Woongsik Jang
+AU  - Hyunjung Shin
+AU  - Jong Hyeok Park
+AU  - Dong Hwan Wang
+PY  - 2024
+DO  - 10.2139/ssrn.5050658
+UR  - https://doi.org/10.2139/ssrn.5050658
+ER  - 
+
+TY  - GEN
+TI  - Enhancing Charge Transport and Stability of Pm6 Polymer Thin Films in Organic Solar Cells Via 70 Kev Gold Ion Irradiation
+AU  - Anuradha Chhillar
+PY  - 2025
+DO  - 10.2139/ssrn.5227959
+UR  - https://doi.org/10.2139/ssrn.5227959
+ER  - 
+
+TY  - GEN
+TI  - Study on the Charge Transport Behaviour of Mxene- Polymer Nanocomposite-Based Self-Assembled Floating Films at the Air-Liquid Interface
+AU  - Radhe Shyam
+AU  - Shubham Sharma
+AU  - Shyam S. Pandey
+AU  - Takaaki Manaka
+AU  - Rajiv Prakash
+PY  - 2024
+DO  - 10.2139/ssrn.4743826
+UR  - https://doi.org/10.2139/ssrn.4743826
+ER  - 
+
+TY  - GEN
+TI  - Glass Transition in Organic Semiconductor Thin Films
+AU  - Han‐Nan Yang
+AU  - Zheng‐Hong Lu
+PY  - 2021
+DO  - 10.1002/9783527344987.ch9
+UR  - https://doi.org/10.1002/9783527344987.ch9
+ER  - 
+
+TY  - GEN
+TI  - Low-threshold distributed feedback laser based on holographic polymer dispersed liquid crystals through the oriented organic semiconductor films
+AU  - Lijuan Liu
+AU  - Minzhe Liu
+AU  - Qidong Wang
+AU  - Hanmin Hu
+AU  - Feng Zhang
+AU  - Xiaobo Kong
+PY  - 2024
+DO  - 10.21203/rs.3.rs-4210392/v1
+UR  - https://doi.org/10.21203/rs.3.rs-4210392/v1
+AB  - Abstract A specific optimized configuration for low threshold organic semiconductor laser based on a holographic polymer dispersed liquid crystal (HPDLC) transmission grating was demonstrated. Here the organic semiconductor films and phase separated liquid crystal (LC) molecules were oriented along the direction of the HPDLC grating grooves. The influence of the organic semiconductor chain orientation and the excitation polarization on the optical properties of the materials has been investigated. Especially, when polymer chain orientation, LC molecules and pump light polarization are consistent with the direction of the grating grooves, the performance of the outgoing laser is greatly improved. Up to 9.78% conversion efficiency with a threshold lower to 0.12 µJ can be obtained, indicating their potential for high-performance organic optoelectronics.
+ER  - 
+
+TY  - JOUR
+TI  - Probing the properties of polymer/non-fullerene/fullerene bulk heterojunction ternary blend solar cells, study of varied blend ratios of PBDB-T:ITIC-Th:PC71BM
+AU  - Francis Otieno
+AU  - Lesias Kotane
+AU  - Mildred Airo
+AU  - Caren Billing
+AU  - Rudolph M. Erasmus
+AU  - Daniel Wamwangi
+AU  - David G. Billing
+PY  - 2021
+DO  - 10.1140/epjp/s13360-021-01129-0
+UR  - https://doi.org/10.1140/epjp/s13360-021-01129-0
+ER  - 
+
+TY  - GEN
+TI  - Review for "Nickel(II) driven activity enhancement of donor-acceptor porous organic polymer for selective photoreduction of carbon dioxide"
+PY  - 2026
+DO  - 10.1039/d6cc00397d/v2/review2
+UR  - https://doi.org/10.1039/d6cc00397d/v2/review2
+ER  - 
+
+TY  - GEN
+TI  - Review for "Nickel(II) driven activity enhancement of donor-acceptor porous organic polymer for selective photoreduction of carbon dioxide"
+PY  - 2026
+DO  - 10.1039/d6cc00397d/v1/review1
+UR  - https://doi.org/10.1039/d6cc00397d/v1/review1
+ER  - 
+
+TY  - GEN
+TI  - Review for "Nickel(II) driven activity enhancement of donor-acceptor porous organic polymer for selective photoreduction of carbon dioxide"
+PY  - 2026
+DO  - 10.1039/d6cc00397d/v2/review1
+UR  - https://doi.org/10.1039/d6cc00397d/v2/review1
+ER  - 
+
+TY  - GEN
+TI  - Review for "Synergistic Steric-Dipole Modulation via Stepwise Trifluoromethyl Substitution Enables Active-Layer Hierarchical Assembly and >20% Power Conversion Efficiency in Organic Photovoltaic Devices"
+PY  - 2026
+DO  - 10.1039/d5ee07321a/v1/review3
+UR  - https://doi.org/10.1039/d5ee07321a/v1/review3
+ER  - 
+
+TY  - GEN
+TI  - Review for "Synergistic Steric-Dipole Modulation via Stepwise Trifluoromethyl Substitution Enables Active-Layer Hierarchical Assembly and >20% Power Conversion Efficiency in Organic Photovoltaic Devices"
+PY  - 2026
+DO  - 10.1039/d5ee07321a/v2/review2
+UR  - https://doi.org/10.1039/d5ee07321a/v2/review2
+ER  - 
+
+TY  - GEN
+TI  - Review for "Synergistic Steric-Dipole Modulation via Stepwise Trifluoromethyl Substitution Enables Active-Layer Hierarchical Assembly and >20% Power Conversion Efficiency in Organic Photovoltaic Devices"
+PY  - 2026
+DO  - 10.1039/d5ee07321a/v2/review1
+UR  - https://doi.org/10.1039/d5ee07321a/v2/review1
+ER  - 
+
+TY  - GEN
+TI  - Review for "Synergistic Steric-Dipole Modulation via Stepwise Trifluoromethyl Substitution Enables Active-Layer Hierarchical Assembly and >20% Power Conversion Efficiency in Organic Photovoltaic Devices"
+PY  - 2026
+DO  - 10.1039/d5ee07321a/v1/review1
+UR  - https://doi.org/10.1039/d5ee07321a/v1/review1
+ER  - 
+
+TY  - GEN
+TI  - Review for "Synergistic Steric-Dipole Modulation via Stepwise Trifluoromethyl Substitution Enables Active-Layer Hierarchical Assembly and >20% Power Conversion Efficiency in Organic Photovoltaic Devices"
+PY  - 2026
+DO  - 10.1039/d5ee07321a/v1/review2
+UR  - https://doi.org/10.1039/d5ee07321a/v1/review2
+ER  - 
+
+TY  - GEN
+TI  - Decision letter for "Synergistic Steric-Dipole Modulation via Stepwise Trifluoromethyl Substitution Enables Active-Layer Hierarchical Assembly and >20% Power Conversion Efficiency in Organic Photovoltaic Devices"
+PY  - 2026
+DO  - 10.1039/d5ee07321a/v1/decision1
+UR  - https://doi.org/10.1039/d5ee07321a/v1/decision1
+ER  - 
+
+TY  - GEN
+TI  - Decision letter for "Synergistic Steric-Dipole Modulation via Stepwise Trifluoromethyl Substitution Enables Active-Layer Hierarchical Assembly and >20% Power Conversion Efficiency in Organic Photovoltaic Devices"
+PY  - 2026
+DO  - 10.1039/d5ee07321a/v2/decision1
+UR  - https://doi.org/10.1039/d5ee07321a/v2/decision1
+ER  - 
+
+TY  - GEN
+TI  - Review for "Oligomer-Engineered Active Layer Enables High-Performance Semi-Transparent Organic Photovoltaics"
+PY  - 2025
+DO  - 10.1039/d5tc01748c/v1/review1
+UR  - https://doi.org/10.1039/d5tc01748c/v1/review1
+ER  - 
+
+TY  - GEN
+TI  - Review for "Oligomer-Engineered Active Layer Enables High-Performance Semi-Transparent Organic Photovoltaics"
+PY  - 2025
+DO  - 10.1039/d5tc01748c/v1/review3
+UR  - https://doi.org/10.1039/d5tc01748c/v1/review3
+ER  - 
+
+TY  - GEN
+TI  - Review for "Oligomer-Engineered Active Layer Enables High-Performance Semi-Transparent Organic Photovoltaics"
+PY  - 2025
+DO  - 10.1039/d5tc01748c/v2/review1
+UR  - https://doi.org/10.1039/d5tc01748c/v2/review1
+ER  - 
+
+TY  - GEN
+TI  - Review for "Oligomer-Engineered Active Layer Enables High-Performance Semi-Transparent Organic Photovoltaics"
+PY  - 2025
+DO  - 10.1039/d5tc01748c/v1/review2
+UR  - https://doi.org/10.1039/d5tc01748c/v1/review2
+ER  - 
+
+TY  - GEN
+TI  - Review for "Humidity-responsive Janus polymer–inorganic films formed by evaporation-induced vertical segregation"
+PY  - 2026
+DO  - 10.1039/d6cc00788k/v2/review2
+UR  - https://doi.org/10.1039/d6cc00788k/v2/review2
+ER  - 
+
+TY  - GEN
+TI  - Review for "Humidity-responsive Janus polymer–inorganic films formed by evaporation-induced vertical segregation"
+PY  - 2026
+DO  - 10.1039/d6cc00788k/v1/review2
+UR  - https://doi.org/10.1039/d6cc00788k/v1/review2
+ER  - 
+
+TY  - GEN
+TI  - Review for "Humidity-responsive Janus polymer–inorganic films formed by evaporation-induced vertical segregation"
+PY  - 2026
+DO  - 10.1039/d6cc00788k/v2/review1
+UR  - https://doi.org/10.1039/d6cc00788k/v2/review1
+ER  - 
+
+TY  - GEN
+TI  - Review for "Humidity-responsive Janus polymer–inorganic films formed by evaporation-induced vertical segregation"
+PY  - 2026
+DO  - 10.1039/d6cc00788k/v3/review1
+UR  - https://doi.org/10.1039/d6cc00788k/v3/review1
+ER  - 
+
+TY  - GEN
+TI  - Review for "Humidity-responsive Janus polymer–inorganic films formed by evaporation-induced vertical segregation"
+PY  - 2026
+DO  - 10.1039/d6cc00788k/v1/review1
+UR  - https://doi.org/10.1039/d6cc00788k/v1/review1
+ER  - 
+
+TY  - GEN
+TI  - Decision letter for "Humidity-responsive Janus polymer–inorganic films formed by evaporation-induced vertical segregation"
+PY  - 2026
+DO  - 10.1039/d6cc00788k/v2/decision1
+UR  - https://doi.org/10.1039/d6cc00788k/v2/decision1
+ER  - 
+
+TY  - GEN
+TI  - Decision letter for "Humidity-responsive Janus polymer–inorganic films formed by evaporation-induced vertical segregation"
+PY  - 2026
+DO  - 10.1039/d6cc00788k/v1/decision1
+UR  - https://doi.org/10.1039/d6cc00788k/v1/decision1
+ER  - 
+
+TY  - GEN
+TI  - Decision letter for "Humidity-responsive Janus polymer–inorganic films formed by evaporation-induced vertical segregation"
+PY  - 2026
+DO  - 10.1039/d6cc00788k/v3/decision1
+UR  - https://doi.org/10.1039/d6cc00788k/v3/decision1
+ER  - 
+
+TY  - GEN
+TI  - Review for "Enhanced NO2 Sensing Performance in Organic Field-Effect Transistors via Regioregularity-Controlled P3HT Blend Films"
+PY  - 2025
+DO  - 10.1039/d5ta05576h/v2/review2
+UR  - https://doi.org/10.1039/d5ta05576h/v2/review2
+ER  - 
+
+TY  - GEN
+TI  - Review for "Enhanced NO2 Sensing Performance in Organic Field-Effect Transistors via Regioregularity-Controlled P3HT Blend Films"
+PY  - 2025
+DO  - 10.1039/d5ta05576h/v1/review1
+UR  - https://doi.org/10.1039/d5ta05576h/v1/review1
+ER  - 
+
+TY  - JOUR
+TI  - Synthesis and Photovoltaics of Novel 2,3,4,5-Tetrathienylthiophene-co-poly(3-hexylthiophene-2,5-diyl) Donor Polymer for Organic Solar Cell
+AU  - Morongwa E. Ramoroka
+AU  - Siyabonga B. Mdluli
+AU  - Vivian S. John‐Denk
+AU  - Kwena D. Modibane
+AU  - Christopher J. Arendse
+AU  - Emmanuel I. Iwuoha
+PY  - 2020
+DO  - 10.3390/polym13010002
+UR  - https://openalex.org/W3115146760
+ER  - 
+
+TY  - JOUR
+TI  - Microscopic, Spectroscopic, and Electrochemical Characterization of Novel Semicrystalline Poly(3-hexylthiophene)-Based Dendritic Star Copolymer
+AU  - Anne Lutgarde Djoumessi Yonkeu
+AU  - Miranda M. Ndipingwi
+AU  - Oluwakemi Tovide
+AU  - Morongwa E. Ramoroka
+AU  - Chinwe O. Ikpo
+AU  - Emmanuel I. Iwuoha
+PY  - 2022
+DO  - 10.3390/polym14204400
+UR  - https://openalex.org/W4306769795
+ER  - 
+
+TY  - JOUR
+TI  - Characterization of Polysaccharide Blend Films for Potential Polymer Hosts in Polymer Electrolytes
+PY  - 2026
+DO  - 10.55373/mjchem.v28i2.163
+UR  - https://doi.org/10.55373/mjchem.v28i2.163
+ER  - 
+
+TY  - JOUR
+TI  - Manufacturing of ultra-thin redox-active polymer films using the layer-by-layer method and co-polymerization of vinyl viologen units
+AU  - Carmen-Simona Jordan (Asaftei)
+PY  - 2022
+DO  - 10.5802/crchim.182
+UR  - https://doi.org/10.5802/crchim.182
+AB  - The current study presents the principle of a new approach to fabricating redox-active polymers film on mesoporous TiO 2 electrodes. This new strategy involves the top-down approach (adsorption) combined with bottom-up layer-by-layer (LbL) crosslinking and “ in situ ” co-polymerization reactions. This approach uses 4,4 ′ -bipyridinium units, so-called viologen with an anchoring phosphono ethyl acid and the vinyl group as building blocks molecules, and 1,3,5-tris-(bromomethyl) benzene as crosslinker. Crosslinking and co-polymerization reactions lead to the growth of the concentration of redox species on the surface and increased stability of the colored areas towards forced desorption in water. The method offers a simple, versatile way to manufacture nanostructured functional materials.
+ER  - 
+
+TY  - JOUR
+TI  - Theta Point Calculation of a Polymer Chain with Electric Dipole Moments: Monte Carlo Simulation
+AU  - Şahin UYAVER
+PY  - 2020
+DO  - 10.16984/saufenbilder.710797
+UR  - https://doi.org/10.16984/saufenbilder.710797
+AB  - Monte Carlo simulations are used to simulate a single polymer chain in a more generalized model. The more generalized model differs from the simpler models by including dipole-dipole interactions. The polymer chain is modeled as a freely rotating chain where the neighboring beads are connected by harmonic spring. Excluded volume effects are included employing modified Lennard-Jones potential. As the extension in this work, each monomer unit carries permanently a freely-rotating electric dipole moment. After getting the system equilibrated the average values are measured and Θ-temperature of the system is determined. The effects of the presence of the dipole moments to the Θ-temperature of the system are investigated. The results are analyzed in comparison with a bare model.
+ER  - 
+
+TY  - GEN
+TI  - Multi-Scale Mechanical Properties of Bulk-Heterojunction Films in Polymer Solar Cells
+AU  - Biao Xiao
+AU  - Tian Zhong
+AU  - Feng Guo
+AU  - Shiyun Lei
+AU  - Qingduan Li
+AU  - Tao Jia
+AU  - Xunchang Wang
+AU  - Renqiang Yang
+PY  - 2022
+DO  - 10.21203/rs.3.rs-2133911/v1
+UR  - https://doi.org/10.21203/rs.3.rs-2133911/v1
+AB  - Abstract The mechanical properties of ¬bulk-heterojunction (BHJ) films play critical roles in the operational stability of flexible polymer solar cells (PSCs). However, research on the mechanical properties of BHJ films is far behind the studies on their optoelectronic properties. Herein, investigations are conducted to systematically evaluate the multi-scale mechanical properties of the BHJ films. The fullerene derivative PC71BM, the fused ring non-fullerene electron acceptor Y6, and the polymer acceptor PRi-C39 are selected as the acceptor materials of the BHJ films for comparative analysis. Interestingly, the tensile moduli of the films based on PC71BM, Y6, and PRi-C39 measured by using the “film-on-water” (FOW) method decrease sequentially, and their fracture strain and toughness show an increasing trend. Moreover, the nanoindentation moduli of the BHJ films based on different electron acceptors vary in accordance with the results of FOW characterizations, and their moduli and hardness distributions are uniform in these films. Time-dependent creep analyses from both macroscopic tensile measurements and microscopic indentation characterizations illustrate that the occurrence of creep deformation in the PC71BM, Y6 and PRi-C39 based films decrease sequentially. Contact angle tests demonstrate that the main reason for the different mechanical properties in these films is the varied interactions between the donor and the acceptors. All results above demonstrate the effects of acceptor type on the multi-scale mechanical properties of the BHJ films, which are of great importance for the designing of novel electron acceptor materials and manufacturing of reliable flexible PSCs.
+ER  - 
+
+TY  - JOUR
+TI  - Programmable single-layer polymer films for millimeter and sub-millimeter self-folding origami
+AU  - Derosh George
+AU  - Marc Madou
+AU  - Edwin A. Peraza-Hernandez
+PY  - 2020
+DO  - 10.1117/12.2558874
+UR  - https://doi.org/10.1117/12.2558874
+ER  - 
+
+TY  - GEN
+TI  - Crystallization of D-A Conjugated Polymers: A Review of Recent Research
+AU  - Yibo Hu
+AU  - Xinxiu Cao
+AU  - Huiqing Fan
+PY  - 2022
+DO  - 10.3390/polym14214612
+UR  - https://openalex.org/W4307764981
+ER  - 
+
+TY  - GEN
+TI  - Review for "Nickel(II) driven activity enhancement of donor-acceptor porous organic polymer for selective photoreduction of carbon dioxide"
+PY  - 2026
+DO  - 10.1039/d6cc00397d/v1/review2
+UR  - https://doi.org/10.1039/d6cc00397d/v1/review2
+ER  - 
+
+TY  - GEN
+TI  - Review for "Enhanced NO2 Sensing Performance in Organic Field-Effect Transistors via Regioregularity-Controlled P3HT Blend Films"
+PY  - 2025
+DO  - 10.1039/d5ta05576h/v2/review1
+UR  - https://doi.org/10.1039/d5ta05576h/v2/review1
+ER  - 
+
+TY  - JOUR
+TI  - Semitransparent Organic Photovoltaic Devices: Interface/Bulk Properties and Stability Issues
+AU  - Barbara Paci
+AU  - Flavia Righi Riva
+AU  - Amanda Generosi
+AU  - Marco Guaragno
+AU  - Emanuela Mangiacapre
+AU  - Sergio Brutti
+AU  - Michael Wagner
+AU  - Andreas Distler
+AU  - Hans‐Joachim Egelhaaf
+PY  - 2024
+DO  - 10.3390/nano14030269
+UR  - https://openalex.org/W4391251604
+ER  - 
+
+TY  - JOUR
+TI  - Graded-Index Active Layer for Efficiency Enhancement in Polymer Solar Cell
+AU  - M. A. Morsy
+AU  - Khaled J. Saleh
+PY  - 2023
+DO  - 10.3390/en16093933
+UR  - https://openalex.org/W4375863386
+ER  - 
+
+TY  - JOUR
+TI  - Amphiphilic Polymer Conetworks for Non-Fullerene Organic Solar Cells: Regulated Molecular Stacking Enables Efficient Downconversion
+AU  - Huang, Chieh-Szu
+AU  - Kim, Danbi
+AU  - Yang, Wenyan
+AU  - Lu, Yang
+AU  - Westbrook, Robert JE
+AU  - Lai, Huagai
+AU  - Wei, Zimu
+AU  - Lee, Chaeyeon
+AU  - Fu, Fan
+AU  - Greenham, Neil C
+AU  - Lee, Bo Ram
+AU  - Stranks, Sam
+PY  - 2025
+DO  - 10.17863/cam.122880
+UR  - https://openalex.org/W7104379040
+ER  - 
+
+TY  - GEN
+TI  - Understanding the Structure and Dynamics of Conjugated Polymers by Advancing Deuteration Chemistry and Neutron Scattering (Final Report)
+AU  - Xiaodan Gu
+AU  - Jason D. Azoulay
+AU  - Zhiyuan Qian
+AU  - Haoyu Zhao
+AU  - Michael E. Steelman
+AU  - Luke Galuska
+AU  - Zhiqiang Cao
+AU  - Yunfei Wang
+AU  - Guorong Ma
+PY  - 2023
+DO  - 10.2172/1989841
+UR  - https://openalex.org/W4385411823
+ER  - 
+
+TY  - GEN
+TI  - Health films for children
+AU  - Victoria Shmidt
+AU  - Karl Kaser
+PY  - 2023
+DO  - 10.4324/9781003272267-10
+UR  - https://doi.org/10.4324/9781003272267-10
+ER  - 
+
+TY  - JOUR
+TI  - Crystallization of GeTe phase change thin films grown by pulsed electron-beam deposition
+AU  - Neda Bathaei
+AU  - Binbin Weng
+AU  - Hjalti Sigmarsson
+PY  - 2022
+DO  - 10.1016/j.mssp.2022.106781
+UR  - https://doi.org/10.1016/j.mssp.2022.106781
+ER  - 
+
+TY  - GEN
+TI  - Study on photovoltaic stability and performance by incorporación tetrabutyl phosphonium iodide into active layer of a perovskita type photovoltaic cell
+AU  - Edgar González Juárez
+PY  - 2020
+DO  - 10.1021/scimeetings.3c00843
+UR  - https://doi.org/10.1021/scimeetings.3c00843
+ER  - 
+
+TY  - GEN
+TI  - Study on photovoltaic stability and performance by incorporación tetrabutyl phosphonium iodide into active layer of a perovskita type photovoltaic cell
+AU  - Edgar González Juárez
+PY  - 2020
+DO  - 10.1021/scimeetings.3c01128
+UR  - https://doi.org/10.1021/scimeetings.3c01128
+ER  - 
+
+TY  - GEN
+TI  - Photon recycling in organic semiconductor thin films
+AU  - Zhongkai Cheng
+AU  - Nasir Javed
+AU  - Deirdre O'Carroll
+PY  - 2021
+DO  - 10.1021/scimeetings.1c00658
+UR  - https://doi.org/10.1021/scimeetings.1c00658
+ER  - 
+
+TY  - GEN
+TI  - High-mobility, trap-free charge transport in conjugated polymer devices
+AU  - Mark Nikolka
+PY  - 2020
+DO  - 10.1021/scimeetings.0c05212
+UR  - https://doi.org/10.1021/scimeetings.0c05212
+ER  - 
+
+TY  - GEN
+TI  - High-mobility, trap-free charge transport in conjugated polymer devices
+AU  - Mark Nikolka
+PY  - 2020
+DO  - 10.1021/scimeetings.0c05213
+UR  - https://doi.org/10.1021/scimeetings.0c05213
+ER  - 
+
+TY  - JOUR
+TI  - A pyrrolopyridazinedione-based copolymer for fullerene-free organic solar cells
+AU  - Astrid‐Caroline Knall
+AU  - Samuel Rabensteiner
+AU  - Sebastian F. Hoefler
+AU  - Matiss Reinfelds
+AU  - Mathias Hobisch
+AU  - Heike M. A. Ehmann
+AU  - Nadiia Pastukhova
+AU  - Egon Pavlica
+AU  - Gvido Bratina
+AU  - Ilie Hanzu
+AU  - Shuguang Wen
+AU  - Renqiang Yang
+AU  - Gregor Trimmel
+AU  - Thomas Rath
+PY  - 2020
+DO  - 10.1039/d0nj04573j
+UR  - https://openalex.org/W3117409977
+ER  - 
+
+TY  - GEN
+TI  - Semiconductor Thin Films for Information Technology
+AU  - Na Chen
+PY  - 2021
+DO  - 10.1002/9783527344987.ch8
+UR  - https://doi.org/10.1002/9783527344987.ch8
+ER  - 
+
+TY  - JOUR
+TI  - Advances in Molecular Layer Deposition of Conductive and Redox-Active Polymer Thin-Films
+AU  - Matthias J. Young
+AU  - Quinton K. Wyatt
+PY  - 2021
+DO  - 10.1149/ma2021-0229883mtgabs
+UR  - https://doi.org/10.1149/ma2021-0229883mtgabs
+ER  - 
+
+TY  - JOUR
+TI  - Fabrication and characterization of solvent evaporation-assisted sodium caseinate emulsion films
+AU  - Yan Yin
+AU  - Yonghong Peng
+AU  - Haiwei Xie
+PY  - 2020
+DO  - 10.1166/mex.2020.1661
+UR  - https://doi.org/10.1166/mex.2020.1661
+AB  - As plastic pollution increases, the development of degradable film has attracted much attention. Sodium caseinate was suitable to be a degradable film material for its mechanical performance and appearance. Maize oil was added to improve the properties of film material by microfluidization and solvent evaporation. Microfluidization could improve the droplet distribution of maize oil in the film building dispersions and the performance of film material. Solvent evaporation could further control the droplet distribution and the characteristics of film materials. The introduction of ethyl acetate could refine the droplet of maize oil distributing in the film building dispersions. The mechanical characteristics, water blocking properties and microscopic structure of solvent evaporation-assisted sodium caseinate emulsion films were improved.
+ER  - 
+
+TY  - JOUR
+TI  - Controlling swelling in mixed transport polymers through alkyl side-chain physical cross-linking
+AU  - Nicholas Siemons
+AU  - Drew Pearce
+AU  - Hang Yu
+AU  - Sachetan M. Tuladhar
+AU  - Garrett LeCroy
+AU  - Rajendar Sheelamanthula
+AU  - Rawad K. Hallani
+AU  - Alberto Salleo
+AU  - Iain McCulloch
+AU  - Alexander Giovannitti
+AU  - Jarvist M. Frost
+AU  - Jenny Nelson
+PY  - 2023
+DO  - 10.1073/pnas.2306272120
+UR  - https://openalex.org/W4386021976
+ER  - 
+
+TY  - JOUR
+TI  - Exciton diffusion and dissociation in organic and quantum‐dot solar cells
+AU  - Dan He
+AU  - Miao Zeng
+AU  - Zhenzhen Zhang
+AU  - Yang Bai
+AU  - Guichuan Xing
+AU  - Hui–Ming Cheng
+AU  - Yuze Lin
+PY  - 2023
+DO  - 10.1002/smm2.1176
+UR  - https://openalex.org/W4318217680
+ER  - 
+
+TY  - JOUR
+TI  - Conductive organic electrodes for flexible electronic devices
+AU  - Amrita Chakraborty
+AU  - Daniel J. Herrera
+AU  - Payton Fallen
+AU  - Daniel E. Hall
+AU  - Nicholas Bampton
+AU  - Thomas Olivero
+AU  - Marius Orlowski
+PY  - 2023
+DO  - 10.1038/s41598-023-30207-9
+UR  - https://openalex.org/W4324056275
+ER  - 
+
+TY  - JOUR
+TI  - Optimization of fluorinated phenyl azides as universal photocrosslinkers for semiconducting polymers
+AU  - Zhao-Siu Tan
+AU  - Zaini Jamal
+AU  - Desmond W. Y. Teo
+AU  - Hor-Cheng Ko
+AU  - Zong‐Long Seah
+AU  - Hao-Yu Phua
+AU  - Peter K. H. Ho
+AU  - Rui‐Qi Png
+AU  - Lay‐Lay Chua
+PY  - 2024
+DO  - 10.1038/s41467-024-50257-5
+UR  - https://openalex.org/W4401062897
+ER  - 
+
+TY  - JOUR
+TI  - High‐Performance Broad‐Spectrum Photodetector by Suppressing Stray Electrons by Adopting a Hybrid CQD/Organic Architecture
+AU  - Jiawei Qiao
+AU  - Qian Wang
+AU  - Jingjing Wang
+AU  - Junwei Liu
+AU  - Wenqing Zhang
+AU  - Xunfan Liao
+AU  - Long Ye
+AU  - Hang Yin
+AU  - Xiaotao Hao
+PY  - 2024
+DO  - 10.1002/agt2.722
+UR  - https://openalex.org/W4405594642
+ER  - 
+
+TY  - JOUR
+TI  - Composite polymer films with semiconductor nanocrystals for organic electronics and optoelectronics
+AU  - O. V. Pylypova
+AU  - D. V. Korbutyak
+AU  - Viktor Tokarev
+AU  - A.I. Pylypov
+AU  - А.А. Еvtukh
+PY  - 2024
+DO  - 10.15407/spqeo27.02.208
+UR  - https://openalex.org/W4400186767
+ER  - 
+
+TY  - JOUR
+TI  - Cross-Linking of Doped Organic Semiconductor Interlayers for Organic Solar Cells: Potential and Challenges
+AU  - Staffan Dahlström
+AU  - Sebastian Wilken
+AU  - Yadong Zhang
+AU  - Christian Ahläng
+AU  - Stephen Barlow
+AU  - Mathias Nyman
+AU  - Seth R. Marder
+AU  - Ronald Österbacka
+PY  - 2021
+DO  - 10.1021/acsaem.1c03127
+UR  - https://openalex.org/W3191192820
+ER  - 
+
+TY  - JOUR
+TI  - In situ Grazing Incidence Small Angle X-ray Scattering on Roll-To-Roll Coating of Organic Solar Cells with Laboratory X-ray Instrumentation
+AU  - Michael Korning Sørensen
+AU  - M. Espíndola-Rodríguez
+AU  - Marcial Fernández Castro
+AU  - Ashwin Nambi
+AU  - Luise Theil Kuhn
+AU  - Jens Wenzel Andreasen
+PY  - 2021
+DO  - 10.3791/61374
+UR  - https://openalex.org/W3133563309
+ER  - 
+
+TY  - JOUR
+TI  - In situ Grazing Incidence Small Angle X-ray Scattering on Roll-To-Roll Coating of Organic Solar Cells with Laboratory X-ray Instrumentation
+AU  - Michael Korning Sørensen
+AU  - M. Espíndola-Rodríguez
+AU  - Marcial Fernández Castro
+AU  - Ashwin Nambi
+AU  - Luise Theil Kuhn
+AU  - Jens Wenzel Andreasen
+PY  - 2021
+DO  - 10.3791/61374-v
+UR  - https://openalex.org/W4300642978
+ER  - 
+
+TY  - JOUR
+TI  - Recent Advances of Film–Forming Kinetics in Organic Solar Cells
+AU  - Qiuju Liang
+AU  - Jianhong Yao
+AU  - Zhangbo Hu
+AU  - Puxin Wei
+AU  - Haodong Lu
+AU  - Yukai Yin
+AU  - Kang Wang
+AU  - Jiangang Liu
+PY  - 2021
+DO  - 10.3390/en14227604
+UR  - https://openalex.org/W3213568327
+ER  - 
+
+TY  - JOUR
+TI  - Molecular photovoltaic devices: The Central Role of Chemistry.
+AU  - Emilio Palomares
+PY  - 2024
+DO  - 10.29363/nanoge.hopv.2024.079
+UR  - https://doi.org/10.29363/nanoge.hopv.2024.079
+ER  - 
+
+TY  - GEN
+TI  - Domain Orientation and Molecular Ordering in Thin Films of Small Molecule Donor for Organic Photovoltaics
+AU  - Nilesh Patil
+AU  - Benjamin Watts
+AU  - Leander Michels
+AU  - Raf Claessens
+AU  - David Kleiven
+AU  - Eirik Torbjørn Bakken Skjønsfjell
+AU  - Niko Van den Brande
+AU  - Bruno Van Mele
+AU  - Dag W. Breiby
+PY  - 2024
+DO  - 10.26434/chemrxiv-2024-0bqpc
+UR  - https://openalex.org/W4392294837
+ER  - 
+
+TY  - GEN
+TI  - Domain Orientation and Molecular Ordering in Thin Films of Small Molecule Donor for Organic Photovoltaics
+AU  - Nilesh Patil
+AU  - Benjamin Watts
+AU  - Leander Michels
+AU  - Raf Claessens
+AU  - David Kleiven
+AU  - Eirik Torbjørn Bakken Skjønsfjell
+AU  - Niko Van den Brande
+AU  - Bruno Van Mele
+AU  - Dag W. Breiby
+PY  - 2024
+DO  - 10.26434/chemrxiv-2024-0bqpc-v2
+UR  - https://openalex.org/W4392372619
+ER  - 
+
+TY  - GEN
+TI  - Assessing Molecular Doping Efficiency in Organic Semiconductors with Reactive Monte Carlo
+AU  - Archana Verma
+AU  - Nicholas E. Jackson
+PY  - 2024
+DO  - 10.26434/chemrxiv-2024-wkjrc
+UR  - https://openalex.org/W4390949142
+ER  - 
+
+TY  - JOUR
+TI  - Integration of Machine Learning and Coarse-Grained Molecular Simulations for Polymer Materials: Physical Understandings and Molecular Design
+AU  - Thanh Danh Nguyen
+AU  - Lei Tao
+AU  - Ying Li
+PY  - 2022
+DO  - 10.3389/fchem.2021.820417
+UR  - https://openalex.org/W4206946030
+ER  - 
+
+TY  - JOUR
+TI  - Approaching highly stable optoelectronic device operation at elevated temperature by locking backbone torsion of conjugated polymers
+AU  - Zhiqiang Cao
+AU  - Zhaofan Li
+AU  - Angela Awada
+AU  - Sara A. Tolba
+AU  - Madison Mooney
+AU  - Yangyang Wang
+AU  - Yu‐Cheng Chiu
+AU  - Simon Rondeau‐Gagné
+AU  - Wenjie Xia
+AU  - Xiaodan Gu
+PY  - 2025
+DO  - 10.1016/j.matt.2025.102195
+UR  - https://openalex.org/W4410994265
+ER  - 
+
+TY  - GEN
+TI  - Longitudinal Assembly of Gold Nanorods on Various Templates for Optoelectronics
+AU  - Puskar Chapagain
+AU  - Suman Neupane
+PY  - 2023
+DO  - 10.5772/intechopen.1002702
+UR  - https://openalex.org/W4388824821
+ER  - 
+
+TY  - JOUR
+TI  - Processing-Dependent Morphology and Photoluminescence Quenching in Donor–Acceptor PBDTTTPD:PNDI(2HD)2T Thin Films
+AU  - Otto Todor-Boer
+AU  - Bogdan-Ionuț Ștefan
+AU  - Levente Máthé
+AU  - Tudor Blaga
+AU  - Ioan Botiz
+PY  - 2026
+DO  - 10.3390/coatings16040417
+UR  - https://openalex.org/W7147688893
+ER  - 
+
+TY  - JOUR
+TI  - Rationally Tuning Blend Miscibility of Polymer Donor and Nonfullerene Acceptor for Constructing Efficient Organic Solar Cells ※
+AU  - Wenyuan Lin
+AU  - Qingzhe Zhu
+AU  - Yunlong Ma
+AU  - Peng Wang
+AU  - Shuo Wan
+AU  - Qingdong Zheng
+PY  - 2022
+DO  - 10.6023/a21120620
+UR  - https://doi.org/10.6023/a21120620
+ER  - 
+
+TY  - GEN
+TI  - Polymer Chains
+AU  - Alan Stevens
+PY  - 2022
+DO  - 10.1201/9781003295235-11
+UR  - https://doi.org/10.1201/9781003295235-11
+ER  - 
+
+TY  - GEN
+TI  - Monte Carlo Simulation: Principle and Implementation
+AU  - Hung T. Diep
+PY  - 2021
+DO  - 10.1201/9781003121107-7
+UR  - https://doi.org/10.1201/9781003121107-7
+ER  - 
+
+TY  - GEN
+TI  - Overview of organic agriculture development in Europe and Central Asia
+PY  - 2020
+DO  - 10.4060/cb0890en
+UR  - https://doi.org/10.4060/cb0890en
+ER  - 
+
+TY  - GEN
+TI  - 4 Monte-Carlo-Simulation
+PY  - 2022
+DO  - 10.24053/9783739882000-53
+UR  - https://doi.org/10.24053/9783739882000-53
+ER  - 
+
+TY  - GEN
+TI  - 2 Monte-Carlo-Simulation in der Controlling-Literatur
+PY  - 2022
+DO  - 10.24053/9783739882000-23
+UR  - https://doi.org/10.24053/9783739882000-23
+ER  - 
+
+TY  - GEN
+TI  - 5 Monte-Carlo-Simulation mit dem Excel-Add-In Risk Kit am Beispiel der Monte-Carlo STAHL AG
+PY  - 2022
+DO  - 10.24053/9783739882000-63
+UR  - https://doi.org/10.24053/9783739882000-63
+ER  - 
+
+TY  - JOUR
+TI  - Impact of P3HT Regioregularity and Molecular Weight on the Efficiency and Stability of Perovskite Solar Cells
+AU  - Narges Yaghoobi Nia
+AU  - Matteo Bonomo
+AU  - Mahmoud Zendehdel
+AU  - Enrico Lamanna
+AU  - Mohamed M. H. Desoky
+AU  - Barbara Paci
+AU  - Francesca Zurlo
+AU  - Amanda Generosi
+AU  - Claudia Barolo
+AU  - Guido Viscardi
+AU  - Pierluigi Quagliotto
+AU  - Aldo Di Carlo
+PY  - 2021
+DO  - 10.1021/acssuschemeng.0c09015
+UR  - https://openalex.org/W3139542098
+ER  - 
+
+TY  - JOUR
+TI  - Why does solvent treatment increase the conductivity of PEDOT : PSS? Insight from molecular dynamics simulations
+AU  - M. Modarresi
+AU  - Igor Zozoulenko
+PY  - 2022
+DO  - 10.1039/d2cp02655d
+UR  - https://openalex.org/W4293216456
+ER  - 
+
+TY  - JOUR
+TI  - Variance-resistant PTB7 and axially-substituted silicon phthalocyanines as active materials for high-Voc organic photovoltaics
+AU  - Mário C. Vebber
+AU  - Nicole A. Rice
+AU  - Jaclyn L. Brusso
+AU  - Benoît H. Lessard
+PY  - 2021
+DO  - 10.1038/s41598-021-94704-5
+UR  - https://openalex.org/W3185098579
+ER  - 
+
+TY  - GEN
+TI  - Tiyenotiyofen ve benzotiyadiazol esaslı donör-π-alıcı-π (D-π-A-π) tipi konjuge polimerlerin sentezi, fotofiziksel özellikleri ve ofet uygulaması
+AU  - Öztürk, Serra Ebru
+PY  - 2023
+UR  - https://openalex.org/W7113046667
+ER  - 
+
+TY  - GEN
+TI  - F VE Cl İÇEREN YENİ KİNOKSALİN TABANLI KONJÜGE POLİMERLERİN ORGANİK GÜNEŞ PİLİ İÇİN SENTEZİ
+AU  - Aydın, Sevgi
+PY  - 2025
+UR  - https://openalex.org/W7110524829
+ER  - 
+
+TY  - GEN
+TI  - Hole transport layers in organic solar cells: A review
+AU  - Riva Alkarsifi
+AU  - Jörg Ackermann
+AU  - Olivier Margeat
+PY  - 2022
+DO  - 10.55713/jmmm.v32i4.1549
+UR  - https://openalex.org/W4312199992
+ER  - 
+
+TY  - GEN
+TI  - The Martini Model in Materials Science
+AU  - Riccardo Alessandri
+AU  - Fabian Grünewald
+AU  - ‪Siewert J. Marrink
+PY  - 2021
+DO  - 10.1002/adma.202008635
+UR  - https://openalex.org/W3111773861
+ER  - 
+
+TY  - GEN
+TI  - Active Ageing in European Union
+PY  - 2020
+DO  - 10.18356/a87c45a9-en
+UR  - https://doi.org/10.18356/a87c45a9-en
+ER  - 
+
+TY  - JOUR
+TI  - Chemical Composition and Strain at Interfaces between Different Morphologies in Block Copolymer Thin Films
+AU  - Kevin Ho
+AU  - Kris S. Kim
+AU  - Sissi de Beer
+AU  - Gilbert C. Walker
+PY  - 2021
+DO  - 10.1021/acs.langmuir.1c02169
+UR  - https://openalex.org/W3210655594
+ER  - 
+
+TY  - GEN
+TI  - Study on photovoltaic stability and performance by incorporación tetrabutyl phosphonium iodide into active layer of a perovskita type photovoltaic cell
+AU  - Edgar González Juárez
+PY  - 2020
+DO  - 10.26226/morressier.5f6c5f439b74b699bf390bcb
+UR  - https://doi.org/10.26226/morressier.5f6c5f439b74b699bf390bcb
+ER  - 
+
+TY  - GEN
+TI  - Submolecular Resolution Imaging of P3HT:PCBM Nanostructured Films by Atomic Force Microscopy: Implications for Organic Solar Cells
+AU  - Letizia Liirò-Peluso
+AU  - James Wrigley
+AU  - David B. Amabilino
+AU  - Peter H. Beton
+PY  - 2022
+DO  - 10.1021/acsanm.2c01399
+UR  - https://openalex.org/W4283035106
+ER  - 
+
+TY  - GEN
+TI  - Selenophene- and Thiophene-based π-Conjugated Polymer Gels
+AU  - Sheng Li
+PY  - 2022
+UR  - https://openalex.org/W7133034280
+ER  - 
+
+TY  - GEN
+TI  - Development of substrates for reconstructed human dermis based on polyhydroxyalkanoates (PHAs) and FucoPol
+AU  - Ana Margarida Correia Rafael
+PY  - 2021
+UR  - https://openalex.org/W3180136028
+ER  - 
+
